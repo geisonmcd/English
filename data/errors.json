@@ -168,11 +168,16 @@
           "said": "at this, at the exact time / not, not / in a, in a",
           "correct": "(pause silently or use um / so)",
           "session": "2026-10-19"
+        },
+        {
+          "said": "how does your, how does / let's, let's / the, the / you, you",
+          "correct": "(pause silently or use um / so)",
+          "session": "2026-10-19"
         }
       ],
       "rule": "Frequent word repetition while thinking; practice pausing silently or using fillers like \"um\" / \"so\".",
       "first_seen": "2026-10-19",
-      "occurrences": 3,
+      "occurrences": 9,
       "severity": "low",
       "ease": 2.5,
       "interval_days": 1,
@@ -334,6 +339,167 @@
       "first_seen": "2026-10-19",
       "occurrences": 1,
       "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-mixed-does-would",
+      "category": "grammar:mixed-auxiliaries",
+      "examples": [
+        {
+          "said": "How does a Asian would help to track my pronunciation?",
+          "correct": "How would Azure help track my pronunciation?",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Don't mix does + would; use How would X help…?",
+      "first_seen": "2026-10-19",
+      "occurrences": 2,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-article-before-name",
+      "category": "grammar:article-before-name",
+      "examples": [
+        {
+          "said": "a Asian",
+          "correct": "Azure (no article before a name)",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Do not use a/an before proper names.",
+      "first_seen": "2026-10-19",
+      "occurrences": 2,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null,
+      "notes": "STT wrote Asian for Azure; article error still applies to the intended name."
+    },
+    {
+      "id": "err-two-vs-too",
+      "category": "word-choice:homophone",
+      "examples": [
+        {
+          "said": "set up the Azure two",
+          "correct": "set up Azure too",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Homophone: too (= also), not the number two.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-ask-for",
+      "category": "grammar:ask-for",
+      "examples": [
+        {
+          "said": "the password you can ask me",
+          "correct": "you can ask me for the password",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Ask someone for something.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-think-of-vs-about",
+      "category": "word-choice:collocation",
+      "examples": [
+        {
+          "said": "I'm thinking of the best way",
+          "correct": "I'm thinking about the best way",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Prefer think about when considering a topic or plan.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-boring-way-phrasing",
+      "category": "word-choice:clarity",
+      "examples": [
+        {
+          "said": "not in a, blah, I have to do this again way",
+          "correct": "not in a boring, I-have-to-do-this-again way",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Keep the adjective (boring); hyphenate the attitude phrase if needed.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-return-vs-answer",
+      "category": "word-choice",
+      "examples": [
+        {
+          "said": "Since you, you have to return, every time I make a mistake",
+          "correct": "Since you have to answer me every time I make a mistake",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Return ≠ answer/reply in this context.",
+      "first_seen": "2026-10-19",
+      "occurrences": 2,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-present-perfect-period",
+      "category": "grammar:present-perfect",
+      "examples": [
+        {
+          "said": "the ones I repeat the most in the last 90 days",
+          "correct": "the ones I've repeated the most over the last 90 days",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Period up to now → present perfect (I've repeated); often over the last X days.",
+      "first_seen": "2026-10-19",
+      "occurrences": 2,
+      "severity": "high",
       "ease": 2.5,
       "interval_days": 1,
       "repetitions": 0,

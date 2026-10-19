@@ -46,6 +46,36 @@
       "due_date": "2026-10-20",
       "last_reviewed": null,
       "notes": "Practice stored: /stɔːrd/ (store + -d). Avoid sounding like starred /stɑːrd/."
+    },
+    {
+      "id": "pron-asian-azure",
+      "heard": "Asian",
+      "intended": "Azure",
+      "context": "\"How does a Asian would help to track my pronunciation?\"",
+      "first_seen": "2026-10-19",
+      "occurrences": 2,
+      "session": "2026-10-19",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null,
+      "notes": "Practice Azure: /ˈæʒər/ or /ˈæzjʊə/. Clear zh sound; not Asian /ˈeɪʒən/."
+    },
+    {
+      "id": "pron-scent-sentence",
+      "heard": "scent",
+      "intended": "sentence",
+      "context": "\"you don't need to say my scent was perfect\"",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "session": "2026-10-19",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null,
+      "notes": "Practice sentence: /ˈsentəns/ — two syllables after sen-; don't stop at scent /sent/."
     }
   ]
 }

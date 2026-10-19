@@ -1,11 +1,14 @@
-name: Update known words
+name: Update known words and top mistakes
 
 on:
   push:
     paths:
       - "sessions/**"
       - "scripts/update-known-words.js"
+      - "scripts/top-mistakes.js"
       - "data/top-5000.txt"
+      - "data/mistakes.jsonl"
+      - "data/errors.json"
       - ".github/workflows/update-known-words.yml"
   schedule:
     # Once a day (UTC)
@@ -16,13 +19,12 @@ permissions:
   contents: write
 
 jobs:
-  update-known-words:
+  update-lists:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # Needed so the bot commit can trigger nothing recursive on the same paths only
           fetch-depth: 0
 
       - name: Setup Node.js
@@ -30,17 +32,20 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Rebuild known / unknown lists
+      - name: Rebuild known / unknown word lists
         run: node scripts/update-known-words.js
+
+      - name: Rebuild top mistakes (90d)
+        run: node scripts/top-mistakes.js
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/known-words.txt data/unknown-top-words.txt
+          git add data/known-words.txt data/unknown-top-words.txt data/top-mistakes-90d.md
           if git diff --staged --quiet; then
-            echo "No changes to known/unknown word lists."
+            echo "No generated-list changes."
             exit 0
           fi
-          git commit -m "chore: update known-words and unknown-top-words"
+          git commit -m "chore: update known-words, unknown-top-words, top-mistakes"
           git push origin HEAD:main

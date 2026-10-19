@@ -31,6 +31,21 @@
       "due_date": "2026-10-20",
       "last_reviewed": null,
       "notes": "Practice: Grok (/ɡrɒk/ or /ɡrɑːk/) + Bot (/bɒt/). Clear /ɡ/ and short vowels."
+    },
+    {
+      "id": "pron-starred-stored",
+      "heard": "starred",
+      "intended": "stored",
+      "context": "\"scan the files where our starred sessions are\" (message 2)",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "session": "2026-10-19",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null,
+      "notes": "Practice stored: /stɔːrd/ (store + -d). Avoid sounding like starred /stɑːrd/."
     }
   ]
 }

@@ -1,4 +1,3 @@
-of
 is
 he
 your
@@ -6,9 +5,7 @@ was
 no
 are
 don
-there
 they
-get
 she
 go
 right
@@ -41,11 +38,9 @@ really
 man
 some
 hey
-could
 didn
 something
 has
-too
 more
 down
 very
@@ -78,7 +73,6 @@ life
 nothing
 sir
 god
-their
 uh
 maybe
 must
@@ -118,7 +112,6 @@ guy
 made
 old
 isn
-which
 big
 lot
 done
@@ -152,11 +145,9 @@ might
 three
 today
 listen
-another
 understand
 hear
 remember
-ask
 own
 same
 show
@@ -170,7 +161,6 @@ care
 car
 looking
 son
-try
 woman
 went
 hi
@@ -193,7 +183,6 @@ without
 baby
 room
 wouldn
-already
 move
 seen
 live
@@ -221,7 +210,6 @@ haven
 yet
 men
 whole
-start
 while
 since
 wife
@@ -302,11 +290,9 @@ crazy
 forget
 everybody
 kid
-change
 gave
 happen
 damn
-five
 drink
 far
 knows
@@ -671,7 +657,6 @@ evidence
 movie
 ride
 t
-completely
 mouth
 totally
 birthday
@@ -730,7 +715,6 @@ using
 floor
 ran
 swear
-spend
 situation
 ring
 anywhere
@@ -798,7 +782,6 @@ cover
 certain
 interested
 deep
-star
 sea
 agree
 problems
@@ -819,7 +802,6 @@ trip
 relax
 america
 public
-list
 afternoon
 brain
 fix
@@ -883,7 +865,6 @@ dare
 relationship
 moved
 prove
-private
 wall
 seat
 position
@@ -984,7 +965,6 @@ colonel
 max
 immediately
 seconds
-thousand
 gives
 experience
 cheers
@@ -1240,7 +1220,6 @@ whom
 bird
 majesty
 flowers
-famous
 asleep
 beauty
 driver
@@ -1353,7 +1332,6 @@ hearing
 states
 account
 spoke
-file
 understood
 angel
 tape
@@ -2572,7 +2550,6 @@ district
 pa
 gee
 custody
-ignore
 naturally
 useful
 attempt
@@ -4410,7 +4387,6 @@ objects
 rehearsal
 disturbing
 directed
-scan
 electronic
 republic
 overnight

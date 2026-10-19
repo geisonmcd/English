@@ -206,8 +206,7 @@ function normalizeToken(raw) {
 
 /**
  * Extract only Geison's spoken/written text from a session markdown file.
- * Takes the "## Geison's message" section until the next ## heading.
- * Falls back to fenced blocks marked as geison if present.
+ * Collects every "## Geison's message…" section until the next ## heading.
  */
 function extractGeisonText(markdown) {
   const lines = markdown.split(/\r?\n/);
@@ -220,25 +219,30 @@ function extractGeisonText(markdown) {
       continue;
     }
     if (inGeison && /^##\s+/.test(line)) {
-      break;
+      inGeison = false;
+      // do not continue: this line may start another Geison section
+      if (/^##\s+Geison'?s\s+message/i.test(line)) {
+        inGeison = true;
+      }
+      continue;
     }
     if (inGeison) {
-      // skip pure markdown chrome
-      if (/^#{1,6}\s/.test(line)) continue;
       if (/^\|/.test(line)) continue;
       chunks.push(line);
     }
   }
 
   if (chunks.length === 0) {
-    // Fallback: any section titled with Geison
     let capture = false;
     for (const line of lines) {
       if (/^##\s+.*geison/i.test(line)) {
         capture = true;
         continue;
       }
-      if (capture && /^##\s+/.test(line)) break;
+      if (capture && /^##\s+/.test(line)) {
+        capture = /^##\s+.*geison/i.test(line);
+        continue;
+      }
       if (capture) chunks.push(line);
     }
   }

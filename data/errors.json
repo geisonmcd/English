@@ -16,11 +16,12 @@
       "first_seen": "2026-10-19",
       "occurrences": 1,
       "severity": "high",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "due_date": "2026-10-20",
-      "last_reviewed": null
+      "last_reviewed": "2026-10-19",
+      "notes": "Corrected in chat on 2026-10-19 (pass)."
     },
     {
       "id": "err-teach-needs-object",
@@ -82,11 +83,12 @@
       "first_seen": "2026-10-19",
       "occurrences": 1,
       "severity": "high",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "due_date": "2026-10-20",
-      "last_reviewed": null
+      "last_reviewed": "2026-10-19",
+      "notes": "Corrected in chat on 2026-10-19 (pass)."
     },
     {
       "id": "err-habit-present-speak",
@@ -156,11 +158,16 @@
           "said": "a, a / we, we / at our, at our / that, that / the, the",
           "correct": "(pause silently or use um / so)",
           "session": "2026-10-19"
+        },
+        {
+          "said": "my, to another / could be, this could be / the, the / what's, what's",
+          "correct": "(pause silently or use um / so)",
+          "session": "2026-10-19"
         }
       ],
       "rule": "Frequent word repetition while thinking; practice pausing silently or using fillers like \"um\" / \"so\".",
       "first_seen": "2026-10-19",
-      "occurrences": 1,
+      "occurrences": 2,
       "severity": "low",
       "ease": 2.5,
       "interval_days": 1,
@@ -179,6 +186,106 @@
         }
       ],
       "rule": "Use the \"not X but Y\" structure.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-whose-not-that-their",
+      "category": "grammar:portuguese-calque-relative-clause",
+      "examples": [
+        {
+          "said": "words that I don't know their meaning",
+          "correct": "words whose meaning I don't know / words I don't know",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Use \"whose\" instead of \"that … their\" for possession in relative clauses.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-famous-for-common",
+      "category": "word-choice:collocation",
+      "examples": [
+        {
+          "said": "words are most fa- famous that I don't know",
+          "correct": "words are most common that I don't know / the most common words I don't know",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "\"Famous\" is for people/places; for frequency use \"common\" / \"frequent\".",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-know-of-vs-know",
+      "category": "word-choice:know-of",
+      "examples": [
+        {
+          "said": "words … that I don't know of",
+          "correct": "words I don't know",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "\"Know of\" means being aware something exists; for knowing a word's meaning, say \"know\".",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-change-repo-private",
+      "category": "word-choice:collocation",
+      "examples": [
+        {
+          "said": "change the English repo to private",
+          "correct": "make the English repo private",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "More natural: \"make the repo private\" (not \"change … to private\").",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-create-vs-run-routine",
+      "category": "word-choice:create-vs-run",
+      "examples": [
+        {
+          "said": "Once a day, you create a routine",
+          "correct": "once a day, run a routine / create a routine that runs once a day",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "You create a routine once; it runs on a schedule (once a day).",
       "first_seen": "2026-10-19",
       "occurrences": 1,
       "severity": "medium",

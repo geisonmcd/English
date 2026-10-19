@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updated": "2026-10-19",
+  "items": [
+    {
+      "id": "pron-cursive-cursor",
+      "heard": "cursive",
+      "intended": "Cursor",
+      "context": "\"you can use cursive for that\" (IDE / agent tool)",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "session": "2026-10-19",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null,
+      "notes": "Practice stress: CUR-sor (/ˈkɜːrsər/), not \"cursive\" (/ˈkɜːrsɪv/)."
+    },
+    {
+      "id": "pron-cock-rock-boat-grok",
+      "heard": "cock-rock boat",
+      "intended": "Grok Bot",
+      "context": "\"You don't need to use cock-rock boat directly.\"",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "session": "2026-10-19",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null,
+      "notes": "Practice: Grok (/ɡrɒk/ or /ɡrɑːk/) + Bot (/bɒt/). Clear /ɡ/ and short vowels."
+    }
+  ]
+}

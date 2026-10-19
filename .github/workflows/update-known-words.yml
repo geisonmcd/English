@@ -1,0 +1,46 @@
+name: Update known words
+
+on:
+  push:
+    paths:
+      - "sessions/**"
+      - "scripts/update-known-words.js"
+      - "data/top-5000.txt"
+      - ".github/workflows/update-known-words.yml"
+  schedule:
+    # Once a day (UTC)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-known-words:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Needed so the bot commit can trigger nothing recursive on the same paths only
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Rebuild known / unknown lists
+        run: node scripts/update-known-words.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/known-words.txt data/unknown-top-words.txt
+          if git diff --staged --quiet; then
+            echo "No changes to known/unknown word lists."
+            exit 0
+          fi
+          git commit -m "chore: update known-words and unknown-top-words"
+          git push origin HEAD:main

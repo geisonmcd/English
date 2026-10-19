@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "updated": "2026-10-19",
+  "items": [
+    {
+      "id": "err-indirect-question-called",
+      "category": "grammar:indirect-question-word-order",
+      "examples": [
+        {
+          "said": "What is, what is called the method that AnkiDroid uses",
+          "correct": "What's the method AnkiDroid uses called? / What's it called, the method AnkiDroid uses?",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "In \"what is X called?\", the subject (X) goes between \"is\" and \"called\".",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-teach-needs-object",
+      "category": "grammar:transitive-verb-missing-object",
+      "examples": [
+        {
+          "said": "teach how to run the application",
+          "correct": "teach them how to run the application / show how to run",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "\"teach\" normally needs the person: teach someone (how) to do something.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null,
+      "notes": "Geison flagged this pattern himself during the session."
+    },
+    {
+      "id": "err-known-words-redundant",
+      "category": "word-choice:redundancy",
+      "examples": [
+        {
+          "said": "all the known words that I know",
+          "correct": "all the words I already know",
+          "session": "2026-10-19"
+        },
+        {
+          "said": "store all my known words",
+          "correct": "store the words I already know",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Avoid \"known words that I know\" (redundant); \"my known words\" sounds unnatural.",
+      "first_seen": "2026-10-19",
+      "occurrences": 2,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-dangerous-errors",
+      "category": "word-choice:collocation",
+      "examples": [
+        {
+          "said": "the most dangerous errors",
+          "correct": "my most serious / biggest / most common mistakes",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Mistakes are \"serious\", \"major\", or \"common\", not \"dangerous\".",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-habit-present-speak",
+      "category": "word-choice:aspect",
+      "examples": [
+        {
+          "said": "unnatural ways that I'm talking",
+          "correct": "the unnatural ways I speak / things I say that sound unnatural",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Use simple present for habits (\"I speak\"), not continuous.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-the-best-one",
+      "category": "word-choice:pronoun-one",
+      "examples": [
+        {
+          "said": "My pronunciation is not the best one",
+          "correct": "My pronunciation isn't great / isn't the best",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Drop \"one\" when there is no noun being replaced.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-process-present-tense",
+      "category": "grammar:tense-consistency",
+      "examples": [
+        {
+          "said": "you found an error ... and then you focus",
+          "correct": "when you find an error ... you focus on it",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Describing a general process: use present (\"find\") consistently.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-word-repetition-fillers",
+      "category": "fluency:repetitions-fillers",
+      "examples": [
+        {
+          "said": "a, a / we, we / at our, at our / that, that / the, the",
+          "correct": "(pause silently or use um / so)",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Frequent word repetition while thinking; practice pausing silently or using fillers like \"um\" / \"so\".",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-not-x-but-y",
+      "category": "word-choice:not-x-but-y",
+      "examples": [
+        {
+          "said": "create not lectures, like sessions",
+          "correct": "create not lectures but practice sessions",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Use the \"not X but Y\" structure.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    }
+  ]
+}

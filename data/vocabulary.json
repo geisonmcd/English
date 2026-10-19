@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "updated": "2026-10-19",
+  "learning": [
+    {
+      "id": "vocab-spaced-repetition",
+      "term": "spaced repetition",
+      "status": "learning",
+      "notes": "Method Anki / AnkiDroid uses: review items at increasing intervals. Geison could describe the idea but could not recall the name at first.",
+      "first_seen": "2026-10-19",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    }
+  ],
+  "known": [
+    {
+      "id": "known-github",
+      "term": "GitHub",
+      "status": "known",
+      "notes": "Used naturally when proposing the project.",
+      "first_seen": "2026-10-19"
+    },
+    {
+      "id": "known-commit-push",
+      "term": "commit and push",
+      "status": "known",
+      "notes": "Clear Git workflow vocabulary.",
+      "first_seen": "2026-10-19"
+    },
+    {
+      "id": "known-spaced-idea",
+      "term": "AnkiDroid / Anki (as a tool)",
+      "status": "known",
+      "notes": "Recognizes AnkiDroid; the gap was the English name \"spaced repetition\", tracked under learning.",
+      "first_seen": "2026-10-19"
+    },
+    {
+      "id": "known-grammar-mistakes",
+      "term": "grammar mistakes",
+      "status": "known",
+      "notes": "Self-aware metalanguage; used correctly.",
+      "first_seen": "2026-10-19"
+    },
+    {
+      "id": "known-pronunciation",
+      "term": "pronunciation",
+      "status": "known",
+      "notes": "Used correctly when assessing his own English.",
+      "first_seen": "2026-10-19"
+    },
+    {
+      "id": "known-application",
+      "term": "application / run the application",
+      "status": "known",
+      "notes": "Natural developer phrasing.",
+      "first_seen": "2026-10-19"
+    }
+  ]
+}

@@ -353,17 +353,24 @@
           "said": "How does a Asian would help to track my pronunciation?",
           "correct": "How would Azure help track my pronunciation?",
           "session": "2026-10-19"
+        },
+        {
+          "said": "How does the pronunciation teaching works?",
+          "correct": "How does the pronunciation teaching work?",
+          "session": "2026-10-19"
         }
       ],
-      "rule": "Don't mix does + would; use How would X help…?",
+      "rule": "One auxiliary per question; after does/would use a base verb (not does+would, not does+works). How would X help…? / How does X work?",
       "first_seen": "2026-10-19",
-      "occurrences": 2,
+      "occurrences": 3,
       "severity": "high",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "due_date": "2026-10-20",
-      "last_reviewed": null
+      "last_reviewed": "2026-10-19",
+      "quality": 5,
+      "notes": "Lesson 1 (2026-10-19): one auxiliary + base verb — all 3 exercises correct (quality 5)."
     },
     {
       "id": "err-article-before-name",
@@ -500,6 +507,126 @@
       "first_seen": "2026-10-19",
       "occurrences": 2,
       "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-past-ed-played",
+      "category": "grammar:past-tense",
+      "examples": [
+        {
+          "said": "I play the beach tennis tournament a few weeks ago",
+          "correct": "I played in a beach tennis tournament a few weeks ago",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Past time marker (a few weeks ago) → past tense: play → played.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-play-in-tournament",
+      "category": "word-choice:collocation",
+      "examples": [
+        {
+          "said": "play the beach tennis tournament",
+          "correct": "play in a beach tennis tournament",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Use play in a tournament (not play the tournament).",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-out-of-the-field",
+      "category": "word-choice:portuguese-calque",
+      "examples": [
+        {
+          "said": "I was out of the field",
+          "correct": "I was out of practice / I hadn't played in a while",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Not \"out of the field\" for sports inactivity; say out of practice / hadn't played in a while.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-idle-for-months",
+      "category": "word-choice",
+      "examples": [
+        {
+          "said": "I was idle for a few months",
+          "correct": "I took a few months off",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "For a break from a sport/activity, prefer took time off / was away from it (idle often sounds like doing nothing at all).",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-where-running",
+      "category": "grammar:word-order-aspect",
+      "examples": [
+        {
+          "said": "Where are we run, are we running in the bot computer?",
+          "correct": "Where is it running — on the bot computer?",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Ask where is it running? (present continuous + right subject), not where are we run.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-whats-apostrophe",
+      "category": "spelling:contraction",
+      "examples": [
+        {
+          "said": "Whats taking so long",
+          "correct": "What's taking so long?",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "What's = what is — needs the apostrophe.",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "low",
       "ease": 2.5,
       "interval_days": 1,
       "repetitions": 0,

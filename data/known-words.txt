@@ -25,6 +25,7 @@ be
 best
 blah
 boat
+bot
 build
 but
 by
@@ -34,6 +35,7 @@ change
 come
 commit
 completely
+computer
 correct
 could
 create
@@ -56,6 +58,7 @@ find
 five
 focus
 for
+from
 get
 github
 grammar
@@ -82,17 +85,21 @@ lesson
 let
 like
 list
+log
+long
 look
 make
 many
 me
 meane
+message
 method
 mistake
 most
 my
 natural
 need
+no
 not
 of
 okay
@@ -132,6 +139,8 @@ spend
 star
 start
 store
+stretch
+take
 talk
 teach
 that
@@ -145,6 +154,7 @@ this
 thousand
 time
 to
+today
 token
 told
 too

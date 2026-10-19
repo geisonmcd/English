@@ -9,6 +9,7 @@ on:
       - "data/top-5000.txt"
       - "data/mistakes.jsonl"
       - "data/errors.json"
+      - "data/pronunciation-scores.jsonl"
       - ".github/workflows/update-known-words.yml"
   schedule:
     # Once a day (UTC)

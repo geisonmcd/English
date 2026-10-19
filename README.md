@@ -18,7 +18,8 @@ data/errors.json               ← recurring mistake patterns + SRS fields
 data/mistakes.jsonl            ← one JSON line per mistake occurrence
 data/top-mistakes-90d.md       ← auto: patterns ranked by count (last 90 days)
 data/vocabulary.json           ← new / reviewing phrases + curated known terms
-data/pronunciation.json        ← speech-to-text mishearings (pronunciation signals) + SRS
+data/pronunciation.json        ← speech-to-text / Azure word issues + SRS
+data/pronunciation-scores.jsonl← one line per recording (date, source, mode, overall scores)
 data/known-words.txt           ← auto: every word Geison used in sessions (sorted)
 data/top-5000.txt              ← 5,000 most common English words (frequency order)
 data/unknown-top-words.txt     ← auto: top-5000 words not yet in known-words

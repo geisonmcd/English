@@ -37,11 +37,13 @@ create
 cursive
 dangerous
 day
+different
 directly
 do
 english
 error
 every
+exact
 example
 fa
 famous
@@ -142,6 +144,7 @@ way
 we
 week
 what
+when
 where
 which
 who

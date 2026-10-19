@@ -163,11 +163,16 @@
           "said": "my, to another / could be, this could be / the, the / what's, what's",
           "correct": "(pause silently or use um / so)",
           "session": "2026-10-19"
+        },
+        {
+          "said": "at this, at the exact time / not, not / in a, in a",
+          "correct": "(pause silently or use um / so)",
+          "session": "2026-10-19"
         }
       ],
       "rule": "Frequent word repetition while thinking; practice pausing silently or using fillers like \"um\" / \"so\".",
       "first_seen": "2026-10-19",
-      "occurrences": 2,
+      "occurrences": 3,
       "severity": "low",
       "ease": 2.5,
       "interval_days": 1,
@@ -286,6 +291,46 @@
         }
       ],
       "rule": "You create a routine once; it runs on a schedule (once a day).",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-at-the-exact-time",
+      "category": "word-choice:collocation",
+      "examples": [
+        {
+          "said": "correct my mistakes at the exact time",
+          "correct": "correct my mistakes right away / in real time / immediately",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "For correcting during the conversation, prefer \"right away\" or \"in real time\" (not \"at the exact time\").",
+      "first_seen": "2026-10-19",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-20",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-in-a-different-time",
+      "category": "word-choice:portuguese-calque",
+      "examples": [
+        {
+          "said": "not in a different time",
+          "correct": "not later / not afterwards",
+          "session": "2026-10-19"
+        }
+      ],
+      "rule": "Portuguese calque of \"em outro momento\"; say \"not later\" instead of \"not in a different time\".",
       "first_seen": "2026-10-19",
       "occurrences": 1,
       "severity": "medium",

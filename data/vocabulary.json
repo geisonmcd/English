@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-19",
+  "updated": "2026-10-21",
   "learning": [
     {
       "id": "vocab-spaced-repetition",
@@ -13,6 +13,19 @@
       "repetitions": 0,
       "due_date": "2026-10-20",
       "last_reviewed": null
+    },
+    {
+      "id": "vocab-helper-verb",
+      "term": "helper verb",
+      "status": "learning",
+      "notes": "Friendly name for auxiliary verb (does / did / would / etc.). Introduced in the 2026-10-21 WhatsApp mini lesson on err-mixed-does-would — not from Geison's own wording.",
+      "first_seen": "2026-10-21",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null,
+      "also_known_as": ["auxiliary verb"]
     }
   ],
   "known": [

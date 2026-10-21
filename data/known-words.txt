@@ -85,6 +85,7 @@ lesson
 let
 like
 list
+little
 log
 long
 look
@@ -112,6 +113,7 @@ part
 password
 perfect
 perhap
+please
 private
 programmatically
 project
@@ -128,6 +130,7 @@ scan
 scent
 secondary
 see
+send
 session
 set
 should

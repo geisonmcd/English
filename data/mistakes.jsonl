@@ -52,3 +52,8 @@
 {"date":"2026-10-21","session":"2026-10-21","said":"rolled back the previous version","correct":"rolled back to the previous version","pattern_id":"err-roll-back-to","category":"word-choice:collocation","severity":"medium"}
 {"date":"2026-10-21","session":"2026-10-21","said":"But then this would not. This wouldn't have…","correct":"But that wouldn't have…","pattern_id":"err-this-vs-that-reference","category":"word-choice:reference","severity":"medium"}
 {"date":"2026-10-21","session":"2026-10-21","said":"so I don't know","correct":"so I'm not sure","pattern_id":"err-im-not-sure","category":"word-choice:naturalness","severity":"low"}
+{"date":"2026-10-21","session":"2026-10-21","said":"Maybe voice closer to mine","correct":"Maybe one closer to mine","pattern_id":"err-maybe-one-closer","category":"grammar:missing-determiner","severity":"medium"}
+{"date":"2026-10-21","session":"2026-10-21","said":"and not sure if that's possible","correct":"but I'm not sure that's possible","pattern_id":"err-dropped-subject-im-not-sure","category":"grammar:dropped-subject","severity":"medium"}
+{"date":"2026-10-21","session":"2026-10-21","said":"If not possible then just a male voice would be fine","correct":"If not, a male voice would be fine","pattern_id":"err-if-not-possible-then","category":"word-choice:naturalness","severity":"low"}
+{"date":"2026-10-21","session":"2026-10-21","said":"maybe (final /i/ → schwa)","correct":"maybe /ˈmeɪbi/","pattern_id":"err-pron-maybe-final-i","category":"pronunciation:final-vowel","severity":"medium"}
+{"date":"2026-10-21","session":"2026-10-21","said":"monotone intonation","correct":"vary pitch on key words / clause ends","pattern_id":"err-prosody-monotone","category":"pronunciation:prosody","severity":"low"}

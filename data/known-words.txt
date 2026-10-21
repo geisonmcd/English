@@ -36,6 +36,7 @@ call
 can
 change
 channel
+closer
 come
 commit
 completely
@@ -59,6 +60,7 @@ fa
 famous
 file
 find
+fine
 five
 fixe
 focus
@@ -98,12 +100,15 @@ log
 long
 look
 make
+male
 many
+maybe
 me
 meane
 meant
 message
 method
+mine
 mistake
 moment
 most
@@ -128,6 +133,7 @@ paulo
 perfect
 perhap
 please
+possible
 previous
 private
 programmatically
@@ -166,6 +172,7 @@ start
 store
 story
 stretch
+sure
 take
 talk
 teach

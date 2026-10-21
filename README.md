@@ -4,7 +4,8 @@ Personal English-learning tracker for **Geison** (Brazilian Portuguese speaker, 
 
 An AI conversation partner ("English BOT") talks with him and updates this repo after every conversation. Once a week it generates a lesson from the accumulated data.
 
-**Current channel:** Telegram bot `@english_234234234_bot` (earlier sessions also used WhatsApp).
+**Current channel:** Telegram bot `@english_234234234_bot` (earlier sessions also used WhatsApp).  
+**BOT audio voice:** Azure `en-US-AndrewMultilingualNeural` (male). Personal voice cloning is not available on the free Azure plan.
 
 **Primary goal:** fix grammar mistakes and unnatural phrasing.  
 **Secondary goal:** teach new vocabulary.  

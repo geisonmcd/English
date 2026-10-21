@@ -835,6 +835,106 @@
       "repetitions": 0,
       "due_date": "2026-10-22",
       "last_reviewed": null
+    },
+    {
+      "id": "err-maybe-one-closer",
+      "category": "grammar:missing-determiner",
+      "examples": [
+        {
+          "said": "Maybe voice closer to mine",
+          "correct": "Maybe one closer to mine",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Need a determiner/pronoun before the adjective phrase: one closer to mine (not bare voice closer).",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-dropped-subject-im-not-sure",
+      "category": "grammar:dropped-subject",
+      "examples": [
+        {
+          "said": "and not sure if that's possible",
+          "correct": "but I'm not sure that's possible",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Keep the subject + verb: I'm not sure… (don't drop I'm). Prefer but over and for contrast.",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-if-not-possible-then",
+      "category": "word-choice:naturalness",
+      "examples": [
+        {
+          "said": "If not possible then just a male voice would be fine",
+          "correct": "If not, a male voice would be fine",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Shorter conditional: If not, … (drop possible then just).",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-pron-maybe-final-i",
+      "category": "pronunciation:final-vowel",
+      "examples": [
+        {
+          "said": "maybe (may-buh)",
+          "correct": "maybe /ˈmeɪbi/ with final /i/",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Keep the final /i/ in maybe — not schwa (may-buh).",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-prosody-monotone",
+      "category": "pronunciation:prosody",
+      "examples": [
+        {
+          "said": "(monotone intonation across the utterance)",
+          "correct": "vary pitch — rise/fall on key words and at clause ends",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Azure flagged Monotone; practice pitch movement so statements and questions do not stay flat.",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
     }
   ]
 }

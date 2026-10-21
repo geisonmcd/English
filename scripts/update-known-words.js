@@ -218,7 +218,7 @@ function extractGeisonText(markdown) {
       inGeison = true;
       continue;
     }
-    if (inGeison && /^##\s+/.test(line)) {
+    if (inGeison && /^#{2,3}\s+/.test(line)) {
       inGeison = false;
       // do not continue: this line may start another Geison section
       if (/^##\s+Geison'?s\s+message/i.test(line)) {

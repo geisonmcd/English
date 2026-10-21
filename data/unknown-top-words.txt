@@ -1,9 +1,11 @@
 is
+he
 was
 are
 don
 they
 she
+go
 right
 out
 him
@@ -21,6 +23,7 @@ going
 us
 were
 had
+or
 been
 gonna
 really
@@ -51,6 +54,7 @@ sure
 thing
 these
 first
+into
 anything
 still
 life
@@ -62,19 +66,24 @@ maybe
 must
 before
 wait
+stop
+after
 won
 away
 than
 thought
 home
+night
 put
 great
 those
 better
 everything
+new
 things
 years
 leave
+does
 money
 around
 doesn
@@ -118,6 +127,8 @@ wrong
 world
 bad
 might
+three
+listen
 understand
 hear
 remember
@@ -163,6 +174,7 @@ miss
 huh
 shit
 both
+heard
 ready
 head
 called
@@ -171,6 +183,7 @@ idea
 knew
 hold
 happy
+door
 such
 fuck
 brother
@@ -211,6 +224,7 @@ few
 friends
 gotta
 ago
+open
 anyone
 killed
 hope
@@ -265,6 +279,7 @@ damn
 drink
 far
 knows
+its
 whatever
 eyes
 shut
@@ -370,7 +385,9 @@ buy
 telling
 honey
 tried
+front
 team
+answer
 gun
 boys
 line
@@ -390,6 +407,7 @@ outside
 light
 l
 needs
+dog
 country
 clear
 order
@@ -425,10 +443,12 @@ ma
 book
 sent
 white
+hour
 anybody
 lives
 special
 parents
+s
 john
 himself
 perhaps
@@ -492,6 +512,7 @@ known
 dream
 write
 million
+voice
 sweet
 rather
 felt
@@ -510,6 +531,7 @@ less
 pull
 beat
 careful
+coffee
 secret
 weeks
 weren
@@ -538,6 +560,7 @@ step
 absolutely
 early
 explain
+clean
 piece
 yesterday
 throw
@@ -559,6 +582,7 @@ figure
 state
 strong
 sam
+none
 amazing
 ones
 works
@@ -580,6 +604,7 @@ pain
 kidding
 decided
 ya
+pass
 tired
 class
 officer
@@ -660,6 +685,7 @@ buddy
 paid
 protect
 using
+floor
 ran
 swear
 situation
@@ -680,6 +706,7 @@ club
 simple
 interesting
 test
+box
 group
 single
 sitting
@@ -716,6 +743,7 @@ quickly
 gold
 bar
 fish
+mark
 tom
 wearing
 crying
@@ -736,6 +764,7 @@ major
 stick
 offer
 difficult
+smart
 personal
 record
 stopped
@@ -744,6 +773,7 @@ whether
 bank
 trip
 relax
+america
 public
 afternoon
 brain
@@ -815,6 +845,7 @@ lieutenant
 realize
 lt
 especially
+machine
 walking
 art
 pleasure
@@ -938,6 +969,7 @@ grow
 river
 aunt
 patient
+kitchen
 aah
 fat
 passed
@@ -1069,6 +1101,7 @@ adam
 brothers
 starts
 prince
+form
 sold
 silly
 mention
@@ -1219,6 +1252,7 @@ agreed
 johnny
 corner
 code
+note
 tommy
 due
 apologize
@@ -1275,6 +1309,7 @@ tape
 milk
 powerful
 weapons
+practice
 manager
 pardon
 vote
@@ -1289,6 +1324,7 @@ biggest
 plays
 dancing
 copy
+plus
 martin
 cake
 freedom
@@ -1355,6 +1391,7 @@ honestly
 bro
 survive
 bobby
+target
 feed
 nurse
 e
@@ -1531,6 +1568,7 @@ lines
 unit
 fan
 gentleman
+introduce
 fate
 split
 recently
@@ -1827,6 +1865,7 @@ fixed
 request
 officers
 pounds
+data
 carefully
 per
 depends
@@ -1930,6 +1969,7 @@ threat
 jenny
 physical
 nation
+source
 chose
 healthy
 carl
@@ -1965,6 +2005,7 @@ awake
 chuckling
 vacation
 violence
+leo
 grandmother
 modern
 luke
@@ -2031,6 +2072,7 @@ laid
 governor
 guards
 louis
+text
 literally
 remove
 becoming
@@ -2075,6 +2117,7 @@ remains
 decent
 issues
 tip
+fail
 bride
 pissed
 penny
@@ -2514,6 +2557,7 @@ potential
 guitar
 committee
 dozen
+delivery
 advance
 quietly
 stan
@@ -2791,6 +2835,7 @@ frankie
 shown
 bat
 survived
+print
 champion
 bills
 therapy
@@ -2830,6 +2875,7 @@ beaten
 heck
 deck
 fans
+script
 brand
 degree
 painful
@@ -2841,6 +2887,7 @@ influence
 fuel
 drawing
 rabbit
+exercise
 attractive
 touching
 virus
@@ -2858,6 +2905,7 @@ pretending
 wasted
 jewish
 goodnight
+robot
 crystal
 confirm
 lad
@@ -2886,6 +2934,7 @@ surrounded
 struck
 inform
 gentle
+status
 purse
 prints
 players
@@ -2997,6 +3046,7 @@ spain
 seats
 awkward
 cleaned
+pattern
 filthy
 visiting
 jews
@@ -3039,7 +3089,9 @@ timing
 stones
 complex
 frozen
+replace
 prayer
+skip
 angeles
 guilt
 tune

@@ -26,6 +26,30 @@
       "due_date": "2026-10-22",
       "last_reviewed": null,
       "also_known_as": ["auxiliary verb"]
+    },
+    {
+      "id": "vocab-robot-vacuum",
+      "term": "robot vacuum",
+      "status": "learning",
+      "notes": "Introduced in the 2026-10-21 Leo audio story (BOT reply 2).",
+      "first_seen": "2026-10-21",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "vocab-muddy-paw-prints",
+      "term": "muddy paw prints",
+      "status": "learning",
+      "notes": "Introduced in the 2026-10-21 Leo audio story (BOT reply 2).",
+      "first_seen": "2026-10-21",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
     }
   ],
   "known": [

@@ -1060,6 +1060,26 @@
       "repetitions": 0,
       "due_date": "2026-10-22",
       "last_reviewed": null
+    },
+    {
+      "id": "err-im-contraction-casual",
+      "category": "word-choice:contractions-naturalness",
+      "examples": [
+        {
+          "said": "But I am giving you an order",
+          "correct": "But I'm giving you an order",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "In casual speech use I'm unless you are stressing am for emphasis.",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
     }
   ]
 }

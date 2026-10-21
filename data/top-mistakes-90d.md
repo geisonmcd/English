@@ -47,11 +47,12 @@ Generated: 2026-10-21 · window: 90 days · source: `data/mistakes.jsonl`
 | 41 | `err-change-repo-private` | 1 | low | 2026-10-19 | make the English repo private | More natural: "make the repo private" (not "change … to private"). |
 | 42 | `err-fillers-an-you-know` | 1 | low | 2026-10-21 | (pause / lighter fillers) | Filler an… and you know while searching for words; pause silently instead when possible. |
 | 43 | `err-if-not-possible-then` | 1 | low | 2026-10-21 | If not, a male voice would be fine | Shorter conditional: If not, … (drop possible then just). |
-| 44 | `err-im-not-sure` | 1 | low | 2026-10-21 | so I'm not sure | For uncertainty about a judgment, I'm not sure often sounds more natural than I don't know. |
-| 45 | `err-know-of-vs-know` | 1 | low | 2026-10-19 | words I don't know | "Know of" means being aware something exists; for knowing a word's meaning, say "know". |
-| 46 | `err-prosody-monotone` | 1 | low | 2026-10-21 | vary pitch on key words / clause ends | Azure flagged Monotone; practice pitch movement so statements and questions do not stay flat. |
-| 47 | `err-the-best-one` | 1 | low | 2026-10-19 | My pronunciation isn't great / isn't the best | Drop "one" when there is no noun being replaced. |
-| 48 | `err-think-of-vs-about` | 1 | low | 2026-10-19 | I'm thinking about the best way | Prefer think about when considering a topic or plan. |
-| 49 | `err-two-vs-too` | 1 | low | 2026-10-19 | set up Azure too | Homophone: too (= also), not the number two. |
-| 50 | `err-whats-apostrophe` | 1 | low | 2026-10-19 | What's taking so long? | What's = what is — needs the apostrophe. |
-| 51 | `err-words-phrases-sentences-order` | 1 | low | 2026-10-21 | words, phrases, or whole sentences | Natural order: words, phrases, or whole sentences (smaller → larger). |
+| 44 | `err-im-contraction-casual` | 1 | low | 2026-10-21 | But I'm giving you an order | In casual speech use I'm unless you are stressing am for emphasis. |
+| 45 | `err-im-not-sure` | 1 | low | 2026-10-21 | so I'm not sure | For uncertainty about a judgment, I'm not sure often sounds more natural than I don't know. |
+| 46 | `err-know-of-vs-know` | 1 | low | 2026-10-19 | words I don't know | "Know of" means being aware something exists; for knowing a word's meaning, say "know". |
+| 47 | `err-prosody-monotone` | 1 | low | 2026-10-21 | vary pitch on key words / clause ends | Azure flagged Monotone; practice pitch movement so statements and questions do not stay flat. |
+| 48 | `err-the-best-one` | 1 | low | 2026-10-19 | My pronunciation isn't great / isn't the best | Drop "one" when there is no noun being replaced. |
+| 49 | `err-think-of-vs-about` | 1 | low | 2026-10-19 | I'm thinking about the best way | Prefer think about when considering a topic or plan. |
+| 50 | `err-two-vs-too` | 1 | low | 2026-10-19 | set up Azure too | Homophone: too (= also), not the number two. |
+| 51 | `err-whats-apostrophe` | 1 | low | 2026-10-19 | What's taking so long? | What's = what is — needs the apostrophe. |
+| 52 | `err-words-phrases-sentences-order` | 1 | low | 2026-10-21 | words, phrases, or whole sentences | Natural order: words, phrases, or whole sentences (smaller → larger). |

@@ -50,6 +50,54 @@
       "repetitions": 0,
       "due_date": "2026-10-22",
       "last_reviewed": null
+    },
+    {
+      "id": "vocab-push-to-production",
+      "term": "push (something) to production",
+      "status": "learning",
+      "notes": "From Lesson 2 mini story: deploy code to the live system. \"pushed it straight to production\".",
+      "first_seen": "2026-10-21",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "vocab-light-up",
+      "term": "light up",
+      "status": "learning",
+      "notes": "From Lesson 2: \"her phone lit up\" — screen/notifications suddenly active.",
+      "first_seen": "2026-10-21",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "vocab-checkout-page",
+      "term": "checkout page",
+      "status": "learning",
+      "notes": "From Lesson 2: the page where customers pay / complete a purchase.",
+      "first_seen": "2026-10-21",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "vocab-past-perfect-hadnt",
+      "term": "hadn't fixed / she'd just moved (past perfect)",
+      "status": "learning",
+      "notes": "From Lesson 2: past perfect for an earlier past before another past event.",
+      "first_seen": "2026-10-21",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
     }
   ],
   "known": [

@@ -42,3 +42,7 @@
 {"date":"2026-10-19","session":"2026-10-19","said":"Where are we run, are we running in the bot computer?","correct":"Where is it running — on the bot computer?","pattern_id":"err-where-running","category":"grammar:word-order-aspect","severity":"medium"}
 {"date":"2026-10-19","session":"2026-10-19","said":"How does the pronunciation teaching works?","correct":"How does the pronunciation teaching work?","pattern_id":"err-mixed-does-would","category":"grammar:mixed-auxiliaries","severity":"high"}
 {"date":"2026-10-19","session":"2026-10-19","said":"Whats taking so long","correct":"What's taking so long?","pattern_id":"err-whats-apostrophe","category":"spelling:contraction","severity":"low"}
+{"date":"2026-10-21","session":"2026-10-21","said":"in this moment","correct":"right now","pattern_id":"err-in-this-moment","category":"word-choice:portuguese-calque","severity":"medium"}
+{"date":"2026-10-21","session":"2026-10-21","said":"a little lesson","correct":"a quick lesson","pattern_id":"err-a-little-lesson","category":"word-choice:naturalness","severity":"medium"}
+{"date":"2026-10-21","session":"2026-10-21","said":"lesson (heard as less and less)","correct":"/ˈlɛsən/ — one word, stress on first syllable","pattern_id":"err-pron-lesson","category":"pronunciation:vowel-word-boundary","severity":"medium"}
+{"date":"2026-10-21","session":"2026-10-21","said":"moment (final /t/ dropped)","correct":"/ˈmoʊmənt/ with a clear final T","pattern_id":"err-pron-moment-final-t","category":"pronunciation:final-t","severity":"medium"}

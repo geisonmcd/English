@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-19",
+  "updated": "2026-10-21",
   "items": [
     {
       "id": "err-indirect-question-called",
@@ -632,6 +632,89 @@
       "repetitions": 0,
       "due_date": "2026-10-20",
       "last_reviewed": null
+    },
+    {
+      "id": "err-in-this-moment",
+      "category": "word-choice:portuguese-calque",
+      "examples": [
+        {
+          "said": "in this moment",
+          "correct": "right now",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Portuguese calque of \"neste momento\"; say \"right now\" (not \"in this moment\").",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null,
+      "notes": "Native rewrite practiced: \"Can you send me a quick lesson right now, just to test it?\""
+    },
+    {
+      "id": "err-a-little-lesson",
+      "category": "word-choice:naturalness",
+      "examples": [
+        {
+          "said": "a little lesson",
+          "correct": "a quick lesson",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "For a short on-demand lesson, prefer \"a quick lesson\" / \"a short lesson\" over \"a little lesson\".",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-pron-lesson",
+      "category": "pronunciation:vowel-word-boundary",
+      "examples": [
+        {
+          "said": "lesson (heard as less and less)",
+          "correct": "/ˈlɛsən/ — one word, stress on first syllable",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Say lesson as one word /ˈlɛsən/ with /ɛ/ (as in \"less\") and stress on the first syllable — not \"less and less\".",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null,
+      "notes": "Azure: accuracy 25; vowel /ɛ/ heard as /i/."
+    },
+    {
+      "id": "err-pron-moment-final-t",
+      "category": "pronunciation:final-t",
+      "examples": [
+        {
+          "said": "moment (final /t/ dropped)",
+          "correct": "/ˈmoʊmənt/ with a clear final T",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Release a clear final /t/ in moment /ˈmoʊmənt/ — don't drop it (heard as /n/).",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null,
+      "notes": "Azure: word score 25; final /t/ score 0."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-19",
+  "updated": "2026-10-21",
   "items": [
     {
       "id": "pron-cursive-cursor",
@@ -225,7 +225,48 @@
       "repetitions": 0,
       "due_date": "2026-10-20",
       "last_reviewed": null,
-      "notes": "Release or lightly aspirate final /t/ in it /ɪt/; keep /t/ in that."
+      "notes": "Release or lightly aspirate final /t/ in it /ɪt/; keep /t/ in that. Related: see pron-moment-final-t (2026-10-21)."
+    },
+    {
+      "id": "pron-lesson-less-and-less",
+      "heard": "less and less",
+      "intended": "lesson",
+      "context": "Telegram 5s: \"a little less and less moment\" (meant \"a little lesson in this moment\")",
+      "issue": "vowel /ɛ/ heard as /i/; word split into \"less and less\"",
+      "word_score": 67,
+      "accuracy": 25,
+      "severity": "high",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "session": "2026-10-21",
+      "source": "azure-speech-telegram-5s",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null,
+      "notes": "lesson /ˈlɛsən/ — one word, stress on first syllable, /ɛ/ as in \"less\" (not /i/)."
+    },
+    {
+      "id": "pron-moment-final-t",
+      "heard": "momen (final /t/ as /n/)",
+      "intended": "moment",
+      "context": "Telegram 5s: \"…moment just to test it\"",
+      "issue": "final /t/ dropped / heard as /n/",
+      "word_score": 25,
+      "accuracy": 25,
+      "final_t_score": 0,
+      "severity": "high",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "session": "2026-10-21",
+      "source": "azure-speech-telegram-5s",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null,
+      "notes": "moment /ˈmoʊmənt/ — clear final T; don't stop at /n/."
     }
   ]
 }

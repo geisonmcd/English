@@ -446,7 +446,6 @@ anybody
 lives
 special
 parents
-s
 john
 himself
 perhaps
@@ -510,7 +509,6 @@ known
 dream
 write
 million
-voice
 sweet
 rather
 felt
@@ -769,7 +767,6 @@ whether
 bank
 trip
 relax
-america
 public
 afternoon
 brain
@@ -1248,7 +1245,6 @@ agreed
 johnny
 corner
 code
-note
 tommy
 due
 apologize
@@ -1965,7 +1961,6 @@ threat
 jenny
 physical
 nation
-source
 chose
 healthy
 carl
@@ -2606,7 +2601,6 @@ dish
 trusted
 jumped
 firing
-channel
 abby
 stopping
 asks

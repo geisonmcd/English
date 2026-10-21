@@ -7,6 +7,7 @@ all
 already
 also
 always
+america
 an
 and
 ankidroid
@@ -33,6 +34,7 @@ by
 call
 can
 change
+channel
 come
 commit
 completely
@@ -103,11 +105,13 @@ method
 mistake
 moment
 most
+msg
 my
 natural
 need
 no
 not
+note
 of
 okay
 on
@@ -117,6 +121,7 @@ other
 our
 part
 password
+paulo
 perfect
 perhap
 please
@@ -132,6 +137,8 @@ repo
 return
 routine
 run
+s
+sao
 say
 scan
 scent
@@ -146,6 +153,7 @@ small
 so
 some
 sorry
+source
 space
 spend
 star
@@ -156,6 +164,7 @@ stretch
 take
 talk
 teach
+telegram
 tell
 test
 that
@@ -181,6 +190,7 @@ up
 update
 use
 user
+voice
 way
 we
 week

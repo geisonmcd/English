@@ -715,6 +715,66 @@
       "due_date": "2026-10-22",
       "last_reviewed": null,
       "notes": "Azure: word score 25; final /t/ score 0."
+    },
+    {
+      "id": "err-missing-object-it",
+      "category": "grammar:missing-object-pronoun",
+      "examples": [
+        {
+          "said": "she should have tested before sending, publishing it to production",
+          "correct": "she should have tested it before pushing it to production",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Transitive verbs like test usually need an object: tested it (not bare tested before…).",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-push-to-production",
+      "category": "word-choice:dev-collocation",
+      "examples": [
+        {
+          "said": "before sending, publishing it to production",
+          "correct": "before pushing it to production / before deploying it to production",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Developers usually say push / deploy to production (not sending/publishing). Hesitation doubled the verb.",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-comprehension-checkout-page",
+      "category": "comprehension:detail",
+      "examples": [
+        {
+          "said": "the whole app went down",
+          "correct": "the whole checkout page went down",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Stay faithful to the story detail: checkout page, not the whole app.",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
     }
   ]
 }

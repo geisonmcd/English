@@ -25,7 +25,9 @@
       "repetitions": 0,
       "due_date": "2026-10-22",
       "last_reviewed": null,
-      "also_known_as": ["auxiliary verb"]
+      "also_known_as": [
+        "auxiliary verb"
+      ]
     },
     {
       "id": "vocab-robot-vacuum",
@@ -92,6 +94,30 @@
       "term": "hadn't fixed / she'd just moved (past perfect)",
       "status": "learning",
       "notes": "From Lesson 2: past perfect for an earlier past before another past event.",
+      "first_seen": "2026-10-21",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "vocab-deploy",
+      "term": "deploy",
+      "status": "learning",
+      "notes": "Ship/release software (often to production). Reinforced in 2026-10-21 Telegram Marta answer correction.",
+      "first_seen": "2026-10-21",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "vocab-should-have-pp",
+      "term": "should have + past participle",
+      "status": "learning",
+      "notes": "Regret/criticism about the past: she should have tested it. Geison answer + rewrite 2026-10-21.",
       "first_seen": "2026-10-21",
       "ease": 2.5,
       "interval_days": 1,

@@ -4,6 +4,8 @@ Personal English-learning tracker for **Geison** (Brazilian Portuguese speaker, 
 
 An AI conversation partner ("English BOT") talks with him and updates this repo after every conversation. Once a week it generates a lesson from the accumulated data.
 
+**Current channel:** Telegram bot `@english_234234234_bot` (earlier sessions also used WhatsApp).
+
 **Primary goal:** fix grammar mistakes and unnatural phrasing.  
 **Secondary goal:** teach new vocabulary.  
 Reviews use spaced repetition (Anki / SM-2 style) — see [docs/srs.md](docs/srs.md).

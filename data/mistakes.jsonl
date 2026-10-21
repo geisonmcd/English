@@ -49,3 +49,6 @@
 {"date":"2026-10-21","session":"2026-10-21","said":"she should have tested before…","correct":"she should have tested it before…","pattern_id":"err-missing-object-it","category":"grammar:missing-object-pronoun","severity":"high"}
 {"date":"2026-10-21","session":"2026-10-21","said":"before sending, publishing it to production","correct":"before pushing it to production","pattern_id":"err-push-to-production","category":"word-choice:dev-collocation","severity":"medium"}
 {"date":"2026-10-21","session":"2026-10-21","said":"the whole app went down","correct":"the whole checkout page went down","pattern_id":"err-comprehension-checkout-page","category":"comprehension:detail","severity":"medium"}
+{"date":"2026-10-21","session":"2026-10-21","said":"rolled back the previous version","correct":"rolled back to the previous version","pattern_id":"err-roll-back-to","category":"word-choice:collocation","severity":"medium"}
+{"date":"2026-10-21","session":"2026-10-21","said":"But then this would not. This wouldn't have…","correct":"But that wouldn't have…","pattern_id":"err-this-vs-that-reference","category":"word-choice:reference","severity":"medium"}
+{"date":"2026-10-21","session":"2026-10-21","said":"so I don't know","correct":"so I'm not sure","pattern_id":"err-im-not-sure","category":"word-choice:naturalness","severity":"low"}

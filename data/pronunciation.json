@@ -324,6 +324,25 @@
       "due_date": "2026-10-22",
       "last_reviewed": null,
       "notes": "went /wɛnt/ — round lips for /w/."
+    },
+    {
+      "id": "pron-know-ou",
+      "heard": "know (weak /oʊ/)",
+      "intended": "know",
+      "context": "Telegram msg 11; /oʊ/ score 54",
+      "issue": "/oʊ/ diphthong weak",
+      "word_score": 54,
+      "severity": "medium",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "session": "2026-10-21",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null,
+      "notes": "know /noʊ/ — finish the diphthong (oh), don't cut it short."
     }
   ]
 }

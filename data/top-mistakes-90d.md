@@ -33,11 +33,14 @@ Generated: 2026-10-21 · window: 90 days · source: `data/mistakes.jsonl`
 | 27 | `err-pron-lesson` | 1 | medium | 2026-10-21 | /ˈlɛsən/ — one word, stress on first syllable | Say lesson as one word /ˈlɛsən/ with /ɛ/ (as in "less") and stress on the first syllable — not "less and less". |
 | 28 | `err-pron-moment-final-t` | 1 | medium | 2026-10-21 | /ˈmoʊmənt/ with a clear final T | Release a clear final /t/ in moment /ˈmoʊmənt/ — don't drop it (heard as /n/). |
 | 29 | `err-push-to-production` | 1 | medium | 2026-10-21 | before pushing it to production | Developers usually say push / deploy to production (not sending/publishing). Hesitation doubled the verb. |
-| 30 | `err-where-running` | 1 | medium | 2026-10-19 | Where is it running — on the bot computer? | Ask where is it running? (present continuous + right subject), not where are we run. |
-| 31 | `err-boring-way-phrasing` | 1 | low | 2026-10-19 | not in a boring, I-have-to-do-this-again way | Keep the adjective (boring); hyphenate the attitude phrase if needed. |
-| 32 | `err-change-repo-private` | 1 | low | 2026-10-19 | make the English repo private | More natural: "make the repo private" (not "change … to private"). |
-| 33 | `err-know-of-vs-know` | 1 | low | 2026-10-19 | words I don't know | "Know of" means being aware something exists; for knowing a word's meaning, say "know". |
-| 34 | `err-the-best-one` | 1 | low | 2026-10-19 | My pronunciation isn't great / isn't the best | Drop "one" when there is no noun being replaced. |
-| 35 | `err-think-of-vs-about` | 1 | low | 2026-10-19 | I'm thinking about the best way | Prefer think about when considering a topic or plan. |
-| 36 | `err-two-vs-too` | 1 | low | 2026-10-19 | set up Azure too | Homophone: too (= also), not the number two. |
-| 37 | `err-whats-apostrophe` | 1 | low | 2026-10-19 | What's taking so long? | What's = what is — needs the apostrophe. |
+| 30 | `err-roll-back-to` | 1 | medium | 2026-10-21 | rolled back to the previous version | Roll back a deploy / roll back to a version (needs to before the version). |
+| 31 | `err-this-vs-that-reference` | 1 | medium | 2026-10-21 | But that wouldn't have… | Use that to refer back to the idea/action just mentioned (rolling back); avoid false-start this would not → this wouldn't. |
+| 32 | `err-where-running` | 1 | medium | 2026-10-19 | Where is it running — on the bot computer? | Ask where is it running? (present continuous + right subject), not where are we run. |
+| 33 | `err-boring-way-phrasing` | 1 | low | 2026-10-19 | not in a boring, I-have-to-do-this-again way | Keep the adjective (boring); hyphenate the attitude phrase if needed. |
+| 34 | `err-change-repo-private` | 1 | low | 2026-10-19 | make the English repo private | More natural: "make the repo private" (not "change … to private"). |
+| 35 | `err-im-not-sure` | 1 | low | 2026-10-21 | so I'm not sure | For uncertainty about a judgment, I'm not sure often sounds more natural than I don't know. |
+| 36 | `err-know-of-vs-know` | 1 | low | 2026-10-19 | words I don't know | "Know of" means being aware something exists; for knowing a word's meaning, say "know". |
+| 37 | `err-the-best-one` | 1 | low | 2026-10-19 | My pronunciation isn't great / isn't the best | Drop "one" when there is no noun being replaced. |
+| 38 | `err-think-of-vs-about` | 1 | low | 2026-10-19 | I'm thinking about the best way | Prefer think about when considering a topic or plan. |
+| 39 | `err-two-vs-too` | 1 | low | 2026-10-19 | set up Azure too | Homophone: too (= also), not the number two. |
+| 40 | `err-whats-apostrophe` | 1 | low | 2026-10-19 | What's taking so long? | What's = what is — needs the apostrophe. |

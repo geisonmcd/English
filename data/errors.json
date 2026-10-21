@@ -775,6 +775,66 @@
       "repetitions": 0,
       "due_date": "2026-10-22",
       "last_reviewed": null
+    },
+    {
+      "id": "err-roll-back-to",
+      "category": "word-choice:collocation",
+      "examples": [
+        {
+          "said": "I would have rolled back the previous version",
+          "correct": "I would have rolled back to the previous version",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Roll back a deploy / roll back to a version (needs to before the version).",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-this-vs-that-reference",
+      "category": "word-choice:reference",
+      "examples": [
+        {
+          "said": "But then this would not. This wouldn't have fixed the original bug",
+          "correct": "But that wouldn't have fixed the original bug",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Use that to refer back to the idea/action just mentioned (rolling back); avoid false-start this would not → this wouldn't.",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-im-not-sure",
+      "category": "word-choice:naturalness",
+      "examples": [
+        {
+          "said": "so I don't know",
+          "correct": "so I'm not sure",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "For uncertainty about a judgment, I'm not sure often sounds more natural than I don't know.",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
     }
   ]
 }

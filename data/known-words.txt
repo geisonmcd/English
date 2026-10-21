@@ -89,6 +89,7 @@ just
 keep
 know
 last
+learn
 lecture
 less
 lesson
@@ -104,6 +105,7 @@ male
 many
 maybe
 me
+mean
 meane
 meant
 message
@@ -124,6 +126,7 @@ okay
 on
 once
 one
+or
 original
 other
 our
@@ -132,6 +135,7 @@ password
 paulo
 perfect
 perhap
+phrase
 please
 possible
 previous
@@ -156,6 +160,7 @@ scent
 secondary
 see
 send
+sentence
 session
 set
 should
@@ -167,6 +172,7 @@ sorry
 source
 space
 spend
+spent
 star
 start
 store
@@ -216,6 +222,7 @@ will
 with
 word
 work
+world
 worst
 would
 yeah

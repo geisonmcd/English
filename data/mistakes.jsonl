@@ -57,3 +57,9 @@
 {"date":"2026-10-21","session":"2026-10-21","said":"If not possible then just a male voice would be fine","correct":"If not, a male voice would be fine","pattern_id":"err-if-not-possible-then","category":"word-choice:naturalness","severity":"low"}
 {"date":"2026-10-21","session":"2026-10-21","said":"maybe (final /i/ → schwa)","correct":"maybe /ˈmeɪbi/","pattern_id":"err-pron-maybe-final-i","category":"pronunciation:final-vowel","severity":"medium"}
 {"date":"2026-10-21","session":"2026-10-21","said":"monotone intonation","correct":"vary pitch on key words / clause ends","pattern_id":"err-prosody-monotone","category":"pronunciation:prosody","severity":"low"}
+{"date":"2026-10-21","session":"2026-10-21","said":"Create a list of words I need to learn","correct":"Could you make a list of words I need to learn?","pattern_id":"err-blunt-create-a-list","category":"word-choice:politeness","severity":"low"}
+{"date":"2026-10-21","session":"2026-10-21","said":"when I would like to learn","correct":"whenever I want to learn something new, I'll send it to you","pattern_id":"err-when-would-whenever","category":"grammar:when-whenever","severity":"high"}
+{"date":"2026-10-21","session":"2026-10-21","said":"sentences or words or phrases","correct":"words, phrases, or whole sentences","pattern_id":"err-words-phrases-sentences-order","category":"word-choice:list-wording","severity":"low"}
+{"date":"2026-10-21","session":"2026-10-21","said":"world (meant word)","correct":"word /wɜːrd/","pattern_id":"err-pron-word-as-world","category":"pronunciation:extra-l","severity":"high"}
+{"date":"2026-10-21","session":"2026-10-21","said":"spent (heard spunt, /ɛ/→/ʌ/)","correct":"spent /spɛnt/","pattern_id":"err-pron-spent-vowel","category":"pronunciation:vowel","severity":"high"}
+{"date":"2026-10-21","session":"2026-10-21","said":"an… / you know","correct":"(pause / lighter fillers)","pattern_id":"err-fillers-an-you-know","category":"fluency:fillers","severity":"low"}

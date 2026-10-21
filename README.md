@@ -15,6 +15,7 @@ Reviews use spaced repetition (Anki / SM-2 style) — see [docs/srs.md](docs/srs
 
 ```
 README.md                      ← you are here
+words-to-learn.md              ← running list Geison wants to learn (Telegram add: …)
 docs/srs.md                    ← exact spaced-repetition scheduling rules
 sessions/YYYY-MM-DD.md         ← one log per conversation day
 data/errors.json               ← recurring mistake patterns + SRS fields
@@ -93,6 +94,10 @@ Open [`data/top-mistakes-90d.md`](data/top-mistakes-90d.md): patterns from `mist
 ```bash
 node scripts/top-mistakes.js
 ```
+
+### 7. Words / phrases Geison wants to learn
+
+Open [`words-to-learn.md`](words-to-learn.md). On Telegram, send `add: …` (word, phrase, or sentence); the BOT appends a row (`date`, `item`, `meaning`, `example`, `status`: new / practicing / learned). Weekly lessons and reviews should pull from this list.
 
 ## Known words (programmatic)
 

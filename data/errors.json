@@ -173,11 +173,16 @@
           "said": "how does your, how does / let's, let's / the, the / you, you",
           "correct": "(pause silently or use um / so)",
           "session": "2026-10-19"
+        },
+        {
+          "said": "an when… / you know",
+          "correct": "(pause silently)",
+          "session": "2026-10-21"
         }
       ],
       "rule": "Frequent word repetition while thinking; practice pausing silently or using fillers like \"um\" / \"so\".",
       "first_seen": "2026-10-19",
-      "occurrences": 9,
+      "occurrences": 10,
       "severity": "low",
       "ease": 2.5,
       "interval_days": 1,
@@ -927,6 +932,126 @@
         }
       ],
       "rule": "Azure flagged Monotone; practice pitch movement so statements and questions do not stay flat.",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-blunt-create-a-list",
+      "category": "word-choice:politeness",
+      "examples": [
+        {
+          "said": "Create a list of words I need to learn",
+          "correct": "Could you make a list of words I need to learn?",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Requests to the BOT sound more natural with Could you…? than a bare imperative Create…",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-when-would-whenever",
+      "category": "grammar:when-whenever",
+      "examples": [
+        {
+          "said": "an when I would like to learn is spent on it",
+          "correct": "whenever I want to learn something new, I'll send it to you",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Don't use would after when for this habitual/future-plan meaning; use whenever + present (want), or I'll send…",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-words-phrases-sentences-order",
+      "category": "word-choice:list-wording",
+      "examples": [
+        {
+          "said": "sentences or words or phrases",
+          "correct": "words, phrases, or whole sentences",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Natural order: words, phrases, or whole sentences (smaller → larger).",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-pron-word-as-world",
+      "category": "pronunciation:extra-l",
+      "examples": [
+        {
+          "said": "world (meant word)",
+          "correct": "word /wɜːrd/ — no /l/",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "word has no /l/; world has /l/. Don't add L to word.",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-pron-spent-vowel",
+      "category": "pronunciation:vowel",
+      "examples": [
+        {
+          "said": "spent (heard spunt)",
+          "correct": "spent /spɛnt/ with /ɛ/ as in ten",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "spent uses /ɛ/ (ten), not /ʌ/ (punt).",
+      "first_seen": "2026-10-21",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-fillers-an-you-know",
+      "category": "fluency:fillers",
+      "examples": [
+        {
+          "said": "an when… / you know",
+          "correct": "(pause) / drop filler or use um/so once",
+          "session": "2026-10-21"
+        }
+      ],
+      "rule": "Filler an… and you know while searching for words; pause silently instead when possible.",
       "first_seen": "2026-10-21",
       "occurrences": 1,
       "severity": "low",

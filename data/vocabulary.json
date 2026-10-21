@@ -160,6 +160,30 @@
       "repetitions": 0,
       "due_date": "2026-10-22",
       "last_reviewed": null
+    },
+    {
+      "id": "vocab-spent",
+      "term": "spent",
+      "status": "learning",
+      "notes": "Past of spend. First words-to-learn.md item; pronunciation focus /ɛ/. From Telegram ~15:44.",
+      "first_seen": "2026-10-21",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "vocab-whenever",
+      "term": "whenever",
+      "status": "learning",
+      "notes": "Every time / any time that. Contrasts with when I would… Correction + words-to-learn.md. Telegram ~15:44.",
+      "first_seen": "2026-10-21",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-22",
+      "last_reviewed": null
     }
   ],
   "known": [

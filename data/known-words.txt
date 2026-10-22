@@ -5,6 +5,7 @@ add
 after
 again
 all
+alot
 already
 also
 always
@@ -31,6 +32,7 @@ before
 best
 blah
 boat
+boss
 bot
 bring
 bug
@@ -53,6 +55,7 @@ computer
 correct
 could
 create
+crockpot
 cursive
 dangerous
 day
@@ -89,6 +92,7 @@ have
 help
 here
 hey
+his
 how
 i
 ideas
@@ -173,15 +177,18 @@ repeat
 repetition
 repo
 return
+rewritten
 right
 rol
 routine
+ruffle
 run
 s
 sao
 say
 scan
 scent
+scream
 secondary
 see
 send
@@ -203,6 +210,7 @@ spend
 spent
 star
 start
+starte
 store
 story
 stretch

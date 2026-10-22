@@ -11,3 +11,4 @@ Running list of **words, phrases, and whole sentences** Geison wants to learn.
 | 2026-10-22 | push the deadline back | postpone a deadline | Whenever I'm stuck, I push the deadline back so I can test properly. | new |
 | 2026-10-22 | either … or | choose between two options; keep parallel verb forms | I either fix it quickly or push the deadline back. | new |
 | 2026-10-22 | succinct | brief and clear, using few words; say /səkˈsɪŋkt/ (suck-SINKT) | Keep your feedback short and succinct. | practicing |
+| 2026-10-22 | crock pot / slow cooker | electric pot that cooks food slowly | I've started using a crock pot a lot. | new |

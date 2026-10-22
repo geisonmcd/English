@@ -683,6 +683,26 @@
       "due_date": "2026-10-23",
       "last_reviewed": null,
       "notes": "you /juː/ — clear /j/ onset."
+    },
+    {
+      "id": "pron-crock-pot-p",
+      "heard": "crock bot",
+      "intended": "crock pot",
+      "context": "Lesson 3 answer msg 38; /p/ score 35",
+      "issue": "/p/ heard as /b/",
+      "word_score": 88,
+      "phone_score_p": 35,
+      "severity": "medium",
+      "first_seen": "2026-10-22",
+      "occurrences": 1,
+      "session": "2026-10-22",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null,
+      "notes": "pot /pɑːt/ — aspirate /p/ with a puff of air (not bot)."
     }
   ]
 }

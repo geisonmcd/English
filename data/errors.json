@@ -506,17 +506,23 @@
           "said": "the ones I repeat the most in the last 90 days",
           "correct": "the ones I've repeated the most over the last 90 days",
           "session": "2026-10-19"
+        },
+        {
+          "said": "what I changed in my routine I started using crockpot alot",
+          "correct": "One thing I've changed in my routine is that I've started using a crock pot a lot",
+          "session": "2026-10-22"
         }
       ],
       "rule": "Period up to now → present perfect (I've repeated); often over the last X days.",
       "first_seen": "2026-10-19",
-      "occurrences": 2,
+      "occurrences": 3,
       "severity": "high",
-      "ease": 2.5,
+      "ease": 2.3,
       "interval_days": 1,
       "repetitions": 0,
-      "due_date": "2026-10-20",
-      "last_reviewed": null
+      "due_date": "2026-10-23",
+      "last_reviewed": "2026-10-22",
+      "notes": "Lesson 3 (2026-10-22): Q1 used has rewritten correctly; Q2 used simple past changed/started (fail)."
     },
     {
       "id": "err-past-ed-played",
@@ -1244,6 +1250,66 @@
         }
       ],
       "rule": "Keep the /ŋk/ cluster before final /t/: -SINKT, not -sint. Second attempt was correct (94).",
+      "first_seen": "2026-10-22",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-comprehension-rafa-reason",
+      "category": "comprehension:content",
+      "examples": [
+        {
+          "said": "every time that his boss asks for a new change",
+          "correct": "because his manager has rejected every version (four times / over the last three weeks)",
+          "session": "2026-10-22"
+        }
+      ],
+      "rule": "Stay faithful to the story reason and key details (rejected every version; four times; over the last three weeks).",
+      "first_seen": "2026-10-22",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-missing-a-countable",
+      "category": "grammar:article",
+      "examples": [
+        {
+          "said": "using crockpot",
+          "correct": "using a crock pot",
+          "session": "2026-10-22"
+        }
+      ],
+      "rule": "Singular countable nouns usually need a/an: a crock pot.",
+      "first_seen": "2026-10-22",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-dangling-what-clause",
+      "category": "grammar:sentence-structure",
+      "examples": [
+        {
+          "said": "what I changed in my routine I started using crockpot",
+          "correct": "One thing I've changed in my routine is that I've started using a crock pot",
+          "session": "2026-10-22"
+        }
+      ],
+      "rule": "Don't leave a what-clause dangling before a new subject+verb. Use One thing I've changed is that…",
       "first_seen": "2026-10-22",
       "occurrences": 1,
       "severity": "medium",

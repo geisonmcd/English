@@ -196,6 +196,18 @@
       "repetitions": 0,
       "due_date": "2026-10-23",
       "last_reviewed": null
+    },
+    {
+      "id": "vocab-crock-pot",
+      "term": "crock pot / slow cooker",
+      "status": "learning",
+      "notes": "Noun: electric pot that cooks food slowly. Also called a slow cooker. From Lesson 3 answer 2026-10-22. Pronunciation: aspirated /p/ in pot.",
+      "first_seen": "2026-10-22",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null
     }
   ],
   "known": [

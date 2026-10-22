@@ -69,13 +69,17 @@ Plain Markdown, JSON, and text. No app, no build. Word lists are maintained by a
 
 Scheduling math lives in [docs/srs.md](docs/srs.md). When reviewing, update those five fields in place on errors, learning vocabulary, and pronunciation entries.
 
-### 3. Once a week (lesson generation)
+### 3. Lesson generation (scheduled or on-demand)
 
-1. Copy `lessons/_TEMPLATE.md` → `lessons/YYYY-Www.md` (ISO week)
+**Hard rule (Geison, 2026-10-22):** Do **not** send a new lesson while a previous lesson is still open / unanswered. Before generating or delivering any new lesson, scan `lessons/*.md` and recent `sessions/` for status **open — awaiting answers**. If any lesson (or open challenge attached to a lesson) is unfinished, **hold** the new lesson and remind him of the open one(s) instead.
+
+When it is OK to send a lesson:
+
+1. Copy `lessons/_TEMPLATE.md` → `lessons/YYYY-Www.md` (ISO week) if needed, or append a numbered lesson section
 2. Pull the top serious / due errors from `data/errors.json` (and due vocab / pronunciation)
-3. Write short explanations + 3–5 practice sentences per focus error
-4. Add a quick vocab review section
-5. Commit and push
+3. Write short explanations + 3–5 practice sentences / story questions per focus error
+4. Add a quick vocab review section when useful
+5. Commit and push; deliver on Telegram only after the open-lesson check passes
 
 ### 4. During a review session
 

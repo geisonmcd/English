@@ -39,6 +39,7 @@ channel
 closer
 come
 commit
+complete
 completely
 computer
 correct
@@ -119,6 +120,7 @@ msg
 my
 natural
 need
+new
 no
 not
 note
@@ -147,6 +149,7 @@ project
 pronunciation
 push
 question
+remember
 repeat
 repetition
 repo

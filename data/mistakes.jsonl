@@ -64,3 +64,5 @@
 {"date":"2026-10-21","session":"2026-10-21","said":"spent (heard spunt, /ɛ/→/ʌ/)","correct":"spent /spɛnt/","pattern_id":"err-pron-spent-vowel","category":"pronunciation:vowel","severity":"high"}
 {"date":"2026-10-21","session":"2026-10-21","said":"an… / you know","correct":"(pause / lighter fillers)","pattern_id":"err-fillers-an-you-know","category":"fluency:fillers","severity":"low"}
 {"date":"2026-10-21","session":"2026-10-21","said":"But I am giving you an order","correct":"But I'm giving you an order","pattern_id":"err-im-contraction-casual","category":"word-choice:contractions-naturalness","severity":"low"}
+{"date":"2026-10-22","session":"2026-10-22","said":"remember to not send","correct":"remember not to send","pattern_id":"err-remember-not-to","category":"grammar:negative-infinitive","severity":"medium"}
+{"date":"2026-10-22","session":"2026-10-22","said":"the new lesson","correct":"a new lesson","pattern_id":"err-a-new-lesson-article","category":"grammar:article","severity":"low"}

@@ -1,5 +1,7 @@
 # Lesson YYYY-Www
 
+Before sending a new lesson: check that no prior lesson/challenge is still **open — awaiting answers** (Geison preference, 2026-10-22). Hold new lessons until open ones are answered.
+
 - **Week:** YYYY-Www (ISO)
 - **Focus errors:** (3 ids from `data/errors.json`, highest severity / due)
 - **Source sessions:** `sessions/...`

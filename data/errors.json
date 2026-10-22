@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "items": [
     {
       "id": "err-indirect-question-called",
@@ -1079,6 +1079,46 @@
       "interval_days": 1,
       "repetitions": 0,
       "due_date": "2026-10-22",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-remember-not-to",
+      "category": "grammar:negative-infinitive",
+      "examples": [
+        {
+          "said": "remember to not send",
+          "correct": "remember not to send",
+          "session": "2026-10-22"
+        }
+      ],
+      "rule": "After remember / try / decide, put not before to: remember not to… (not remember to not…).",
+      "first_seen": "2026-10-22",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-a-new-lesson-article",
+      "category": "grammar:article",
+      "examples": [
+        {
+          "said": "the new lesson",
+          "correct": "a new lesson",
+          "session": "2026-10-22"
+        }
+      ],
+      "rule": "Use a/an for a not-yet-specific item (a new lesson), not the.",
+      "first_seen": "2026-10-22",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
       "last_reviewed": null
     }
   ]

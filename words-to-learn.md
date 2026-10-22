@@ -10,3 +10,4 @@ Running list of **words, phrases, and whole sentences** Geison wants to learn.
 | 2026-10-21 | whenever | every time that; any time that (not *when I would*) | Whenever I want to learn something new, I'll send it to you. | practicing |
 | 2026-10-22 | push the deadline back | postpone a deadline | Whenever I'm stuck, I push the deadline back so I can test properly. | new |
 | 2026-10-22 | either … or | choose between two options; keep parallel verb forms | I either fix it quickly or push the deadline back. | new |
+| 2026-10-22 | succinct | brief and clear | Keep your comments short and succinct. | new |

@@ -13,6 +13,7 @@ an
 and
 ankidroid
 another
+answer
 any
 application
 as
@@ -20,6 +21,7 @@ asian
 ask
 at
 audio
+avoid
 azure
 back
 base
@@ -38,10 +40,12 @@ by
 cake
 call
 can
+challenge
 change
 channel
 closer
 come
+commentary
 commit
 complete
 completely
@@ -58,17 +62,21 @@ directly
 do
 either
 email
+end
 english
 error
 every
+everythe
 exact
 example
+explaine
 fa
 famous
 file
 find
 fine
 five
+fix
 fixe
 focus
 for
@@ -180,6 +188,7 @@ send
 sentence
 session
 set
+short
 should
 since
 small
@@ -197,6 +206,7 @@ start
 store
 story
 stretch
+succinct
 sure
 take
 talk
@@ -205,6 +215,8 @@ team
 telegram
 tell
 test
+text
+thank
 that
 the
 their
@@ -214,6 +226,7 @@ there
 they
 think
 this
+though
 thousand
 time
 to
@@ -224,6 +237,7 @@ too
 track
 try
 two
+understand
 unnatural
 up
 update

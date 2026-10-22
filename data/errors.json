@@ -1192,6 +1192,46 @@
       "repetitions": 0,
       "due_date": "2026-10-23",
       "last_reviewed": null
+    },
+    {
+      "id": "err-commentaries-comments",
+      "category": "word-choice:collocation",
+      "examples": [
+        {
+          "said": "Keep your commentaries short and succinct",
+          "correct": "Keep your comments short and succinct",
+          "session": "2026-10-22"
+        }
+      ],
+      "rule": "commentary is for sports/news analysis; feedback remarks are comments.",
+      "first_seen": "2026-10-22",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-conditional-would",
+      "category": "grammar:second-conditional",
+      "examples": [
+        {
+          "said": "if you explained in using audio understand",
+          "correct": "if you explained them in audio, I'd understand",
+          "session": "2026-10-22"
+        }
+      ],
+      "rule": "Second conditional: if + past, would + base verb. Keep the object them after explain.",
+      "first_seen": "2026-10-22",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null
     }
   ]
 }

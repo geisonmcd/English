@@ -11,6 +11,16 @@ An AI conversation partner ("English BOT") talks with him and updates this repo 
 **Secondary goal:** teach new vocabulary.  
 Reviews use spaced repetition (Anki / SM-2 style) — see [docs/srs.md](docs/srs.md).
 
+### Standing preferences (Geison, Telegram)
+
+Apply on every reply unless he overrides:
+
+1. **Audio-only feedback** — send corrections as **short voice notes**; avoid text replies for feedback/explanations.
+2. **Brief comments** — keep commentaries short and succinct (say *comments*, not *commentaries*).
+3. **No end challenges** — do not add a practice challenge at the end of feedback.
+4. **Explain pronunciation in audio** — he often doesn’t follow written phonetic notes; say the sound and have him repeat.
+5. **Open-lesson hold** — do not send a new lesson while a previous lesson/challenge is still open (see lesson generation below).
+
 ## Layout
 
 ```

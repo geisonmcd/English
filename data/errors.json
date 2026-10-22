@@ -749,11 +749,16 @@
           "said": "before sending, publishing it to production",
           "correct": "before pushing it to production / before deploying it to production",
           "session": "2026-10-21"
+        },
+        {
+          "said": "push the production",
+          "correct": "push to production",
+          "session": "2026-10-22"
         }
       ],
-      "rule": "Developers usually say push / deploy to production (not sending/publishing). Hesitation doubled the verb.",
+      "rule": "Collocation: push to production (with to). Not push the production; also prefer push/deploy over send/publish.",
       "first_seen": "2026-10-21",
-      "occurrences": 1,
+      "occurrences": 2,
       "severity": "medium",
       "ease": 2.5,
       "interval_days": 1,
@@ -975,11 +980,13 @@
       "first_seen": "2026-10-21",
       "occurrences": 1,
       "severity": "high",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
-      "due_date": "2026-10-22",
-      "last_reviewed": null
+      "repetitions": 1,
+      "due_date": "2026-10-23",
+      "last_reviewed": "2026-10-22",
+      "quality": 4,
+      "notes": "Lesson 4 answer (2026-10-22): whenever used correctly twice (pass)."
     },
     {
       "id": "err-words-phrases-sentences-order",
@@ -1115,6 +1122,71 @@
       "first_seen": "2026-10-22",
       "occurrences": 1,
       "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-either-or-parallel",
+      "category": "grammar:parallel-structure",
+      "examples": [
+        {
+          "said": "either quickly solved the bug or postpone deadline",
+          "correct": "either fix it quickly or postpone the deadline / push the deadline back",
+          "session": "2026-10-22"
+        }
+      ],
+      "rule": "After either…or, keep parallel base verbs (fix… or postpone…). Avoid mixing past solved with present postpone.",
+      "first_seen": "2026-10-22",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-article-deadline",
+      "category": "grammar:article",
+      "examples": [
+        {
+          "said": "right before deadline",
+          "correct": "right before a deadline",
+          "session": "2026-10-22"
+        },
+        {
+          "said": "postpone deadline",
+          "correct": "postpone the deadline",
+          "session": "2026-10-22"
+        }
+      ],
+      "rule": "Countable deadline usually needs an article: a deadline / the deadline.",
+      "first_seen": "2026-10-22",
+      "occurrences": 2,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-you-vs-i-perspective",
+      "category": "grammar:pronoun-perspective",
+      "examples": [
+        {
+          "said": "whenever you find a bug… you find a way…",
+          "correct": "Whenever I find a bug… I either fix it…",
+          "session": "2026-10-22"
+        }
+      ],
+      "rule": "When asked what you do (about yourself), answer with I, not a general you — unless you mean people in general on purpose.",
+      "first_seen": "2026-10-22",
+      "occurrences": 1,
+      "severity": "medium",
       "ease": 2.5,
       "interval_days": 1,
       "repetitions": 0,

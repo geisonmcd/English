@@ -66,3 +66,8 @@
 {"date":"2026-10-21","session":"2026-10-21","said":"But I am giving you an order","correct":"But I'm giving you an order","pattern_id":"err-im-contraction-casual","category":"word-choice:contractions-naturalness","severity":"low"}
 {"date":"2026-10-22","session":"2026-10-22","said":"remember to not send","correct":"remember not to send","pattern_id":"err-remember-not-to","category":"grammar:negative-infinitive","severity":"medium"}
 {"date":"2026-10-22","session":"2026-10-22","said":"the new lesson","correct":"a new lesson","pattern_id":"err-a-new-lesson-article","category":"grammar:article","severity":"low"}
+{"date":"2026-10-22","session":"2026-10-22","said":"push the production","correct":"push to production","pattern_id":"err-push-to-production","category":"word-choice:dev-collocation","severity":"medium"}
+{"date":"2026-10-22","session":"2026-10-22","said":"either quickly solved the bug or postpone","correct":"either fix it quickly or postpone","pattern_id":"err-either-or-parallel","category":"grammar:parallel-structure","severity":"high"}
+{"date":"2026-10-22","session":"2026-10-22","said":"right before deadline","correct":"right before a deadline","pattern_id":"err-article-deadline","category":"grammar:article","severity":"medium"}
+{"date":"2026-10-22","session":"2026-10-22","said":"postpone deadline","correct":"postpone the deadline","pattern_id":"err-article-deadline","category":"grammar:article","severity":"medium"}
+{"date":"2026-10-22","session":"2026-10-22","said":"whenever you find a bug… you find a way…","correct":"Whenever I find a bug… I…","pattern_id":"err-you-vs-i-perspective","category":"grammar:pronoun-perspective","severity":"medium"}

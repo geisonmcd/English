@@ -623,21 +623,48 @@
     },
     {
       "id": "pron-succinct",
-      "heard": "succinct (65)",
+      "heard": "/səksɪnnt/ (try 1)",
       "intended": "succinct",
-      "context": "Telegram msg 33; score 65",
+      "context": "Telegram msg 35 free practice: try1=44 (mispron), try2=94 (good), try3=70",
       "word_score": 65,
       "severity": "medium",
       "first_seen": "2026-10-22",
-      "occurrences": 1,
+      "occurrences": 2,
       "session": "2026-10-22",
       "source": "azure-speech-telegram",
       "ease": 2.5,
       "interval_days": 1,
       "repetitions": 0,
       "due_date": "2026-10-23",
-      "last_reviewed": null,
-      "notes": "succinct /səkˈsɪŋkt/ — suk-SINKT; second c is /k/."
+      "last_reviewed": "2026-10-22",
+      "notes": "succinct /səkˈsɪŋkt/ — suk-SINKT; end like \"sink\"+T. Try 2 was correct (94). Review with SRS.",
+      "issue": "/ŋk/ cluster collapsed to /n/; final K dropped on weak attempts",
+      "word_scores": [
+        44,
+        94,
+        70
+      ],
+      "last_practice": {
+        "date": "2026-10-22",
+        "telegram_msg": 35,
+        "attempts": [
+          {
+            "n": 1,
+            "score": 44,
+            "ok": false
+          },
+          {
+            "n": 2,
+            "score": 94,
+            "ok": true
+          },
+          {
+            "n": 3,
+            "score": 70,
+            "ok": "partial"
+          }
+        ]
+      }
     },
     {
       "id": "pron-you-weak",

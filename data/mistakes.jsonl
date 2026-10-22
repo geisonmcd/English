@@ -73,3 +73,4 @@
 {"date":"2026-10-22","session":"2026-10-22","said":"whenever you find a bug… you find a way…","correct":"Whenever I find a bug… I…","pattern_id":"err-you-vs-i-perspective","category":"grammar:pronoun-perspective","severity":"medium"}
 {"date":"2026-10-22","session":"2026-10-22","said":"commentaries","correct":"comments","pattern_id":"err-commentaries-comments","category":"word-choice:collocation","severity":"medium"}
 {"date":"2026-10-22","session":"2026-10-22","said":"if you explained using audio, (I) understand","correct":"if you explained them in audio, I'd understand","pattern_id":"err-conditional-would","category":"grammar:second-conditional","severity":"high"}
+{"date":"2026-10-22","session":"2026-10-22","said":"succinct (/-sɪnt/, /ŋk/ → /n/, K dropped)","correct":"succinct /səkˈsɪŋkt/ (suck-SINKT)","pattern_id":"err-pron-succinct-nk","category":"pronunciation:consonant-cluster","severity":"medium"}

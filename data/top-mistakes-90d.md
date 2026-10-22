@@ -43,23 +43,24 @@ Generated: 2026-10-22 · window: 90 days · source: `data/mistakes.jsonl`
 | 37 | `err-pron-lesson` | 1 | medium | 2026-10-21 | /ˈlɛsən/ — one word, stress on first syllable | Say lesson as one word /ˈlɛsən/ with /ɛ/ (as in "less") and stress on the first syllable — not "less and less". |
 | 38 | `err-pron-maybe-final-i` | 1 | medium | 2026-10-21 | maybe /ˈmeɪbi/ | Keep the final /i/ in maybe — not schwa (may-buh). |
 | 39 | `err-pron-moment-final-t` | 1 | medium | 2026-10-21 | /ˈmoʊmənt/ with a clear final T | Release a clear final /t/ in moment /ˈmoʊmənt/ — don't drop it (heard as /n/). |
-| 40 | `err-remember-not-to` | 1 | medium | 2026-10-22 | remember not to send | After remember / try / decide, put not before to: remember not to… (not remember to not…). |
-| 41 | `err-roll-back-to` | 1 | medium | 2026-10-21 | rolled back to the previous version | Roll back a deploy / roll back to a version (needs to before the version). |
-| 42 | `err-this-vs-that-reference` | 1 | medium | 2026-10-21 | But that wouldn't have… | Use that to refer back to the idea/action just mentioned (rolling back); avoid false-start this would not → this wouldn't. |
-| 43 | `err-where-running` | 1 | medium | 2026-10-19 | Where is it running — on the bot computer? | Ask where is it running? (present continuous + right subject), not where are we run. |
-| 44 | `err-you-vs-i-perspective` | 1 | medium | 2026-10-22 | Whenever I find a bug… I… | When asked what you do (about yourself), answer with I, not a general you — unless you mean people in general on purpose. |
-| 45 | `err-a-new-lesson-article` | 1 | low | 2026-10-22 | a new lesson | Use a/an for a not-yet-specific item (a new lesson), not the. |
-| 46 | `err-blunt-create-a-list` | 1 | low | 2026-10-21 | Could you make a list of words I need to learn? | Requests to the BOT sound more natural with Could you…? than a bare imperative Create… |
-| 47 | `err-boring-way-phrasing` | 1 | low | 2026-10-19 | not in a boring, I-have-to-do-this-again way | Keep the adjective (boring); hyphenate the attitude phrase if needed. |
-| 48 | `err-change-repo-private` | 1 | low | 2026-10-19 | make the English repo private | More natural: "make the repo private" (not "change … to private"). |
-| 49 | `err-fillers-an-you-know` | 1 | low | 2026-10-21 | (pause / lighter fillers) | Filler an… and you know while searching for words; pause silently instead when possible. |
-| 50 | `err-if-not-possible-then` | 1 | low | 2026-10-21 | If not, a male voice would be fine | Shorter conditional: If not, … (drop possible then just). |
-| 51 | `err-im-contraction-casual` | 1 | low | 2026-10-21 | But I'm giving you an order | In casual speech use I'm unless you are stressing am for emphasis. |
-| 52 | `err-im-not-sure` | 1 | low | 2026-10-21 | so I'm not sure | For uncertainty about a judgment, I'm not sure often sounds more natural than I don't know. |
-| 53 | `err-know-of-vs-know` | 1 | low | 2026-10-19 | words I don't know | "Know of" means being aware something exists; for knowing a word's meaning, say "know". |
-| 54 | `err-prosody-monotone` | 1 | low | 2026-10-21 | vary pitch on key words / clause ends | Azure flagged Monotone; practice pitch movement so statements and questions do not stay flat. |
-| 55 | `err-the-best-one` | 1 | low | 2026-10-19 | My pronunciation isn't great / isn't the best | Drop "one" when there is no noun being replaced. |
-| 56 | `err-think-of-vs-about` | 1 | low | 2026-10-19 | I'm thinking about the best way | Prefer think about when considering a topic or plan. |
-| 57 | `err-two-vs-too` | 1 | low | 2026-10-19 | set up Azure too | Homophone: too (= also), not the number two. |
-| 58 | `err-whats-apostrophe` | 1 | low | 2026-10-19 | What's taking so long? | What's = what is — needs the apostrophe. |
-| 59 | `err-words-phrases-sentences-order` | 1 | low | 2026-10-21 | words, phrases, or whole sentences | Natural order: words, phrases, or whole sentences (smaller → larger). |
+| 40 | `err-pron-succinct-nk` | 1 | medium | 2026-10-22 | succinct /səkˈsɪŋkt/ (suck-SINKT) | Keep the /ŋk/ cluster before final /t/: -SINKT, not -sint. Second attempt was correct (94). |
+| 41 | `err-remember-not-to` | 1 | medium | 2026-10-22 | remember not to send | After remember / try / decide, put not before to: remember not to… (not remember to not…). |
+| 42 | `err-roll-back-to` | 1 | medium | 2026-10-21 | rolled back to the previous version | Roll back a deploy / roll back to a version (needs to before the version). |
+| 43 | `err-this-vs-that-reference` | 1 | medium | 2026-10-21 | But that wouldn't have… | Use that to refer back to the idea/action just mentioned (rolling back); avoid false-start this would not → this wouldn't. |
+| 44 | `err-where-running` | 1 | medium | 2026-10-19 | Where is it running — on the bot computer? | Ask where is it running? (present continuous + right subject), not where are we run. |
+| 45 | `err-you-vs-i-perspective` | 1 | medium | 2026-10-22 | Whenever I find a bug… I… | When asked what you do (about yourself), answer with I, not a general you — unless you mean people in general on purpose. |
+| 46 | `err-a-new-lesson-article` | 1 | low | 2026-10-22 | a new lesson | Use a/an for a not-yet-specific item (a new lesson), not the. |
+| 47 | `err-blunt-create-a-list` | 1 | low | 2026-10-21 | Could you make a list of words I need to learn? | Requests to the BOT sound more natural with Could you…? than a bare imperative Create… |
+| 48 | `err-boring-way-phrasing` | 1 | low | 2026-10-19 | not in a boring, I-have-to-do-this-again way | Keep the adjective (boring); hyphenate the attitude phrase if needed. |
+| 49 | `err-change-repo-private` | 1 | low | 2026-10-19 | make the English repo private | More natural: "make the repo private" (not "change … to private"). |
+| 50 | `err-fillers-an-you-know` | 1 | low | 2026-10-21 | (pause / lighter fillers) | Filler an… and you know while searching for words; pause silently instead when possible. |
+| 51 | `err-if-not-possible-then` | 1 | low | 2026-10-21 | If not, a male voice would be fine | Shorter conditional: If not, … (drop possible then just). |
+| 52 | `err-im-contraction-casual` | 1 | low | 2026-10-21 | But I'm giving you an order | In casual speech use I'm unless you are stressing am for emphasis. |
+| 53 | `err-im-not-sure` | 1 | low | 2026-10-21 | so I'm not sure | For uncertainty about a judgment, I'm not sure often sounds more natural than I don't know. |
+| 54 | `err-know-of-vs-know` | 1 | low | 2026-10-19 | words I don't know | "Know of" means being aware something exists; for knowing a word's meaning, say "know". |
+| 55 | `err-prosody-monotone` | 1 | low | 2026-10-21 | vary pitch on key words / clause ends | Azure flagged Monotone; practice pitch movement so statements and questions do not stay flat. |
+| 56 | `err-the-best-one` | 1 | low | 2026-10-19 | My pronunciation isn't great / isn't the best | Drop "one" when there is no noun being replaced. |
+| 57 | `err-think-of-vs-about` | 1 | low | 2026-10-19 | I'm thinking about the best way | Prefer think about when considering a topic or plan. |
+| 58 | `err-two-vs-too` | 1 | low | 2026-10-19 | set up Azure too | Homophone: too (= also), not the number two. |
+| 59 | `err-whats-apostrophe` | 1 | low | 2026-10-19 | What's taking so long? | What's = what is — needs the apostrophe. |
+| 60 | `err-words-phrases-sentences-order` | 1 | low | 2026-10-21 | words, phrases, or whole sentences | Natural order: words, phrases, or whole sentences (smaller → larger). |

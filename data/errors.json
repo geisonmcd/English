@@ -1232,6 +1232,26 @@
       "repetitions": 0,
       "due_date": "2026-10-23",
       "last_reviewed": null
+    },
+    {
+      "id": "err-pron-succinct-nk",
+      "category": "pronunciation:consonant-cluster",
+      "examples": [
+        {
+          "said": "succinct (/-sɪnt/, K dropped)",
+          "correct": "succinct /səkˈsɪŋkt/ — end like sink + T (suck-SINKT)",
+          "session": "2026-10-22"
+        }
+      ],
+      "rule": "Keep the /ŋk/ cluster before final /t/: -SINKT, not -sint. Second attempt was correct (94).",
+      "first_seen": "2026-10-22",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-23",
+      "last_reviewed": null
     }
   ]
 }

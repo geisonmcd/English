@@ -21,7 +21,6 @@ man
 didn
 something
 has
-more
 down
 very
 never
@@ -2488,7 +2487,6 @@ guitar
 committee
 dozen
 delivery
-advance
 quietly
 stan
 teaching

@@ -364,6 +364,42 @@
       "repetitions": 0,
       "due_date": "2026-10-24",
       "last_reviewed": "2026-10-23"
+    },
+    {
+      "id": "vocab-bond-out",
+      "term": "bond out / bond someone out",
+      "status": "learning",
+      "notes": "Get someone out of jail by paying a bail bond. /bɑːnd/ not bound. Taught msg 75 after Geison clarified movie clip. 2026-10-23.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23"
+    },
+    {
+      "id": "vocab-bail-bond",
+      "term": "bail bond",
+      "status": "learning",
+      "notes": "A promise/arrangement to pay the bail money. Taught msg 75, 2026-10-23.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23"
+    },
+    {
+      "id": "vocab-bail-bondsman",
+      "term": "bail bondsman",
+      "status": "learning",
+      "notes": "Person whose job is to lend/post the bail money. Taught msg 75, 2026-10-23.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23"
     }
   ],
   "known": [

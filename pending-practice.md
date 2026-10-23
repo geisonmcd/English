@@ -28,6 +28,8 @@ Silent mistakes (logged in `data/mistakes.jsonl` / `data/errors.json`) that were
 | 2026-10-23 | `err-pron-payment-syllables` | payement | payment (2 syllables) | pending | msg 69 |
 | 2026-10-23 | `err-like-when` | Like someone goes to prison? | Like when someone goes to prison? | pending | msg 72 |
 | 2026-10-23 | `err-pron-that-th` | that (/ð/ 64) | clearer /ð/ in that | pending | msg 72 |
+| 2026-10-23 | `err-pron-bailable` | bailable (41, weak schwa) | /ˈbeɪləbəl/ | pending | msg 74 |
+| 2026-10-23 | `err-it-is-bailable` | I mean it is bailable | I mean it's related to bail / It's about bail | pending | msg 74 |
 
 ## Recently taught (not pending)
 
@@ -37,4 +39,5 @@ Silent mistakes (logged in `data/mistakes.jsonl` / `data/errors.json`) that were
 | 2026-10-23 | `err-wouldnt-have-stayed` | wouldn't have stayed up (not *have to stay*) | msg 66 (still improving — see pending) |
 | 2026-10-23 | `err-pron-earlier-er` | earlier /ˈɝliɚ/ (*her*, not *oh*) | msg 68 |
 | 2026-10-23 | `err-embedded-question-order` | what the next steps would be (statement order) | msg 71 |
-| 2026-10-23 | `err-bound-out-bail` | bail (not *bound out*) | msg 73 |
+| 2026-10-23 | `err-bound-out-bail` | bail (not *bound out*) | msg 73 — **BOT mis-guess**; superseded by `err-bound-vs-bond` |
+| 2026-10-23 | `err-bound-vs-bond` | bond out /bɑːnd/ (not bound /baʊnd/) | msg 75 |

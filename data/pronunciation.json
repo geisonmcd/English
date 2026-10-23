@@ -985,6 +985,43 @@
       "last_reviewed": null,
       "notes": "that — clearer /ð/.",
       "issue": "weak /ð/"
+    },
+    {
+      "id": "pron-bound-vs-bond",
+      "heard": "bound /baʊnd/",
+      "intended": "bond /bɑːnd/",
+      "context": "Telegram msg 74: I'm here to bound out Ray",
+      "severity": "high",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23",
+      "notes": "bond /bɑːnd/ vs bound /baʊnd/. Phrase: bond out / bond someone out.",
+      "issue": "/aʊ/ instead of /ɑː/"
+    },
+    {
+      "id": "pron-bailable",
+      "heard": "/beɪllbəl/",
+      "intended": "bailable",
+      "context": "Telegram msg 74; word score 41",
+      "word_score": 41,
+      "severity": "medium",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "bailable /ˈbeɪləbəl/ — keep middle schwa.",
+      "issue": "weak/missing middle schwa"
     }
   ]
 }

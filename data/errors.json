@@ -2277,13 +2277,13 @@
       "rule": "The money to leave jail before trial is bail (post bail / bail someone out) — not bound out.",
       "first_seen": "2026-10-23",
       "occurrences": 1,
-      "severity": "high",
+      "severity": "low",
       "ease": 2.5,
       "interval_days": 1,
       "repetitions": 0,
       "due_date": "2026-10-24",
       "last_reviewed": "2026-10-23",
-      "notes": "msg 72; TAUGHT in reply msg 73"
+      "notes": "msg 72; TAUGHT in reply msg 73 SUPERSEDED: msg 74 clarified phrase was bond out not bail; see err-bound-vs-bond (taught msg 75)."
     },
     {
       "id": "err-like-when",
@@ -2326,6 +2326,69 @@
       "due_date": "2026-10-24",
       "last_reviewed": null,
       "notes": "msg 72; pending"
+    },
+    {
+      "id": "err-bound-vs-bond",
+      "category": "pronunciation:minimal-pair",
+      "examples": [
+        {
+          "said": "I'm here to bound out Ray",
+          "correct": "I'm here to bond out Ray / to bond Ray out",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "bond out = get someone out of jail via a bail bond. Say /bɑːnd/ (like father), not bound /baʊnd/ (like cow).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 74; TAUGHT msg 75. Related bail vocab still useful."
+    },
+    {
+      "id": "err-pron-bailable",
+      "category": "pronunciation:vowel",
+      "examples": [
+        {
+          "said": "bailable (41, /beɪllbəl/)",
+          "correct": "bailable /ˈbeɪləbəl/",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "bailable has a clear middle schwa: bay-luh-bul.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 74; pending"
+    },
+    {
+      "id": "err-it-is-bailable",
+      "category": "word-choice:naturalness",
+      "examples": [
+        {
+          "said": "I mean it is bailable",
+          "correct": "I mean it's related to bail / It's about bail",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "bailable = eligible for bail. To clarify the topic, say related to bail / about bail.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 74; pending"
     }
   ]
 }

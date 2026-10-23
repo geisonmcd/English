@@ -2263,6 +2263,69 @@
       "due_date": "2026-10-24",
       "last_reviewed": null,
       "notes": "msg 69; pending"
+    },
+    {
+      "id": "err-bound-out-bail",
+      "category": "word-choice:vocabulary",
+      "examples": [
+        {
+          "said": "bound out",
+          "correct": "bail / bail out — Do you know what bail is?",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "The money to leave jail before trial is bail (post bail / bail someone out) — not bound out.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 72; TAUGHT in reply msg 73"
+    },
+    {
+      "id": "err-like-when",
+      "category": "word-choice:naturalness",
+      "examples": [
+        {
+          "said": "Like someone goes to prison?",
+          "correct": "Like when someone goes to prison?",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "For a clarifying example situation, prefer Like when + clause.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 72; pending"
+    },
+    {
+      "id": "err-pron-that-th",
+      "category": "pronunciation:consonant",
+      "examples": [
+        {
+          "said": "that (/ð/ 64)",
+          "correct": "that with clearer /ð/",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Keep a light dental /ð/ in that (tongue on teeth).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 72; pending"
     }
   ]
 }

@@ -328,6 +328,42 @@
       "repetitions": 0,
       "due_date": "2026-10-24",
       "last_reviewed": "2026-10-23"
+    },
+    {
+      "id": "vocab-bail",
+      "term": "bail",
+      "status": "learning",
+      "notes": "Money paid so an arrested person can wait for trial outside jail. Taught msg 73 (Geison said bound out). 2026-10-23.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23"
+    },
+    {
+      "id": "vocab-post-bail",
+      "term": "post bail / bail someone out",
+      "status": "learning",
+      "notes": "Pay the bail money so they can leave jail. Taught msg 73, 2026-10-23.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23"
+    },
+    {
+      "id": "vocab-on-parole",
+      "term": "on parole",
+      "status": "learning",
+      "notes": "Released early from prison under supervision (e.g. good behavior). Taught msg 73, 2026-10-23.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23"
     }
   ],
   "known": [

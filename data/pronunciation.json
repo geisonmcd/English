@@ -966,6 +966,25 @@
       "last_reviewed": null,
       "notes": "Final -er = /ɚ/.",
       "issue": "final -er → /o/"
+    },
+    {
+      "id": "pron-that-th",
+      "heard": "that (/ð/ 64)",
+      "intended": "that",
+      "context": "Telegram msg 72 bail topic",
+      "phone_score_dh": 64,
+      "severity": "low",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "that — clearer /ð/.",
+      "issue": "weak /ð/"
     }
   ]
 }

@@ -684,7 +684,6 @@ sea
 agree
 problems
 detective
-prison
 major
 stick
 offer
@@ -2517,7 +2516,6 @@ basement
 linda
 quarter
 erm
-bound
 navy
 article
 guide

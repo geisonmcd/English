@@ -22,3 +22,6 @@ Running list of **words, phrases, and whole sentences** Geison wants to learn.
 | 2026-10-23 | ongoing conversation | continuous casual chat (not structured lessons) | Let's keep an ongoing conversation. | new |
 | 2026-10-23 | revert | roll back a deploy / undo a change | We reverted the deploy. | new |
 | 2026-10-23 | hotfix | quick fix pushed straight to production | Have you ever had to push a hotfix on a Friday? | new |
+| 2026-10-23 | bail | money paid so an arrested person can wait for trial outside jail | Do you know what bail is? | new |
+| 2026-10-23 | post bail / bail someone out | pay the bail money so they can leave jail | His brother posted bail / bailed him out. | new |
+| 2026-10-23 | on parole | released early from prison under supervision (e.g. good behavior) | He left prison early — he's on parole. | new |

@@ -834,6 +834,25 @@
       "last_reviewed": null,
       "notes": "twenty /ˈtwenti/ — keep final ee (in 28 = twenty-eight).",
       "issue": "weak final /i/"
+    },
+    {
+      "id": "pron-dont-final-t",
+      "heard": "/doʊʌ/",
+      "intended": "don't",
+      "context": "Telegram msg 55; word score 79",
+      "word_score": 79,
+      "severity": "medium",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "don't /doʊnt/ — release final /t/.",
+      "issue": "final /t/ dropped"
     }
   ]
 }

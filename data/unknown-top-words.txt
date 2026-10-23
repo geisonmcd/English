@@ -86,11 +86,9 @@ wanted
 kind
 coming
 house
-ok
 through
 being
 course
-stay
 left
 dad
 enough
@@ -182,7 +180,6 @@ school
 gone
 um
 saying
-phone
 play
 looks
 couldn
@@ -233,7 +230,6 @@ death
 minute
 pay
 crazy
-forget
 everybody
 kid
 gave
@@ -251,7 +247,6 @@ hit
 taking
 easy
 times
-check
 hands
 minutes
 deal
@@ -377,7 +372,6 @@ alive
 pick
 feeling
 living
-cause
 ahead
 lose
 king
@@ -493,7 +487,6 @@ fault
 straight
 takes
 song
-future
 gentlemen
 loved
 changed
@@ -1796,7 +1789,6 @@ fixed
 request
 officers
 pounds
-data
 carefully
 per
 depends
@@ -1855,7 +1847,6 @@ sexual
 suffer
 arthur
 wherever
-plate
 appear
 chocolate
 clever

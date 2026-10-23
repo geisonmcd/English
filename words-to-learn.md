@@ -16,3 +16,4 @@ Running list of **words, phrases, and whole sentences** Geison wants to learn.
 | 2026-10-23 | to score (someone's) pronunciation | rate how clearly/accurately someone pronounces words | Are you using Azure to score my pronunciation? | new |
 | 2026-10-23 | the 28-second mark | that exact point in a recording | The hint is at the 28-second mark. | new |
 | 2026-10-23 | X seconds into the audio | that many seconds after the recording starts | At 28 seconds into the audio. | new |
+| 2026-10-23 | stay up late | not go to bed (≠ *stay late* at work) | Marco stayed up late because he forgot to test the payment page. | practicing |

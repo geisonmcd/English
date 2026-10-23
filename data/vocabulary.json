@@ -256,6 +256,18 @@
       "repetitions": 0,
       "due_date": "2026-10-24",
       "last_reviewed": null
+    },
+    {
+      "id": "vocab-stay-up-late",
+      "term": "stay up late",
+      "status": "learning",
+      "notes": "Not go to bed (≠ stay late at work). Lesson 6 / msgs 60–61, 2026-10-23.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23"
     }
   ],
   "known": [

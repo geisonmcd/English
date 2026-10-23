@@ -1653,18 +1653,25 @@
           "said": "stayed late",
           "correct": "stayed up late",
           "session": "2026-10-23"
+        },
+        {
+          "said": "Stay up late / Marco stayed up late…",
+          "correct": "stayed up late (used correctly)",
+          "session": "2026-10-23",
+          "note": "msg 61 pass"
         }
       ],
       "rule": "stay up late = not go to bed; stay late = remain at work late. For Marco awake until 4 a.m., use stayed up late.",
       "first_seen": "2026-10-23",
       "occurrences": 1,
       "severity": "medium",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "due_date": "2026-10-24",
       "last_reviewed": "2026-10-23",
-      "notes": "msg 57 Lesson 6 Q1; TAUGHT in reply msg 60"
+      "notes": "msg 57 Lesson 6 Q1; TAUGHT in reply msg 60 msg 61: used stayed up late correctly + asked stay up vs stay — pass.",
+      "quality": 4
     },
     {
       "id": "err-missed-third-conditional",
@@ -1674,18 +1681,24 @@
           "said": "Marco stayed late because he forgot to test…",
           "correct": "If he had tested the payment page on his phone earlier, he wouldn't have stayed up until four a.m.",
           "session": "2026-10-23"
+        },
+        {
+          "said": "Marco stayed up late because he forgot to test… (msg 61)",
+          "correct": "If he had tested the payment page earlier, he wouldn't have stayed up so late.",
+          "session": "2026-10-23",
+          "note": "see also err-third-conditional-not-used (taught msg 63)"
         }
       ],
       "rule": "When the lesson asks for If he had… / If I had…, use third conditional (If + past perfect, would have + past participle) — not only because + simple past.",
       "first_seen": "2026-10-23",
-      "occurrences": 1,
+      "occurrences": 2,
       "severity": "high",
       "ease": 2.5,
       "interval_days": 1,
       "repetitions": 0,
       "due_date": "2026-10-24",
       "last_reviewed": null,
-      "notes": "msg 57; content correct; frame missed; logged silently (one-correction = stayed up)"
+      "notes": "msg 57; content correct; frame missed; logged silently (one-correction = stayed up) msg 61 again (taught under err-third-conditional-not-used)."
     },
     {
       "id": "err-repeated-the",
@@ -1707,6 +1720,69 @@
       "due_date": "2026-10-24",
       "last_reviewed": null,
       "notes": "msg 57; minor; logged silently"
+    },
+    {
+      "id": "err-third-conditional-not-used",
+      "category": "grammar:third-conditional",
+      "examples": [
+        {
+          "said": "Marco stayed up late because he forgot to test…",
+          "correct": "If he had tested the payment page earlier, he wouldn't have stayed up so late.",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "When asked for If he had…, use third conditional — not only because + simple past. Related: err-missed-third-conditional.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 61; TAUGHT in reply msg 63 (one correction). Same target miss as msg 57 silent log."
+    },
+    {
+      "id": "err-payment-page-feature",
+      "category": "word-choice:story",
+      "examples": [
+        {
+          "said": "payment feature",
+          "correct": "payment page",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "In the Lesson 6 story, say payment page (not payment feature).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 61; logged silently"
+    },
+    {
+      "id": "err-on-a-phone",
+      "category": "word-choice:naturalness",
+      "examples": [
+        {
+          "said": "on mobile phones",
+          "correct": "on a phone",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Story/natural phrasing: on a phone (or on his phone) — not on mobile phones.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 61; logged silently"
     }
   ]
 }

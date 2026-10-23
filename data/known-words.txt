@@ -47,9 +47,11 @@ by
 cake
 call
 can
+cause
 challenge
 change
 channel
+check
 closer
 come
 commentary
@@ -64,6 +66,7 @@ create
 crockpot
 cursive
 dangerous
+data
 day
 deadline
 different
@@ -90,8 +93,10 @@ fix
 fixe
 focus
 for
+forget
 forgot
 from
+future
 get
 github
 give
@@ -129,6 +134,7 @@ lena
 less
 lesson
 let
+licence
 like
 list
 little
@@ -162,6 +168,7 @@ not
 note
 now
 of
+ok
 okay
 on
 once
@@ -179,7 +186,9 @@ paulo
 payment
 perfect
 perhap
+phone
 phrase
+plate
 please
 pm
 possible
@@ -237,6 +246,7 @@ spent
 star
 start
 starte
+stay
 staye
 store
 story

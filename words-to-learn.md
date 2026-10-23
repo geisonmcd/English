@@ -14,3 +14,5 @@ Running list of **words, phrases, and whole sentences** Geison wants to learn.
 | 2026-10-22 | crock pot / slow cooker | electric pot that cooks food slowly | I've started using a crock pot a lot. | new |
 | 2026-10-23 | pronunciation assessment | Azure feature that scores how you pronounce words | Are you using Azure Pronunciation Assessment? | new |
 | 2026-10-23 | to score (someone's) pronunciation | rate how clearly/accurately someone pronounces words | Are you using Azure to score my pronunciation? | new |
+| 2026-10-23 | the 28-second mark | that exact point in a recording | The hint is at the 28-second mark. | new |
+| 2026-10-23 | X seconds into the audio | that many seconds after the recording starts | At 28 seconds into the audio. | new |

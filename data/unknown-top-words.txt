@@ -224,7 +224,6 @@ sit
 eat
 thinking
 young
-second
 working
 water
 person

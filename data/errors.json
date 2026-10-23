@@ -957,11 +957,16 @@
           "said": "(monotone intonation — Azure Monotone flag)",
           "correct": "vary pitch on key words / clause ends",
           "session": "2026-10-23"
+        },
+        {
+          "said": "(monotone — Azure Monotone flag, msg 56)",
+          "correct": "vary pitch on key words / clause ends",
+          "session": "2026-10-23"
         }
       ],
       "rule": "Azure flagged Monotone; practice pitch movement so statements and questions do not stay flat.",
       "first_seen": "2026-10-21",
-      "occurrences": 2,
+      "occurrences": 3,
       "severity": "low",
       "ease": 2.5,
       "interval_days": 1,
@@ -1529,6 +1534,69 @@
       "last_reviewed": "2026-10-23",
       "notes": "msg 49; one correction in reply msg 50 msg 51 practice: using 97–100 — pass (target /ju/ fixed).",
       "quality": 4
+    },
+    {
+      "id": "err-didnt-understand-past",
+      "category": "grammar:tense-wording",
+      "examples": [
+        {
+          "said": "I don't understand what you said just before at the end of your audio, just before you said",
+          "correct": "I didn't understand what you said near the end of your audio, right before…",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "For something already heard, prefer past I didn't understand. Say near the end / right before — avoid stacking just before.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 55; logged silently (reply clarified Lesson 6 hint only)"
+    },
+    {
+      "id": "err-seconds-into-audio",
+      "category": "word-choice:preposition",
+      "examples": [
+        {
+          "said": "At 28 seconds of audio",
+          "correct": "At 28 seconds into the audio / at the 28-second mark",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Point inside a recording: X seconds into the audio, or at the X-second mark — not at X seconds of audio.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 56; logged silently"
+    },
+    {
+      "id": "err-pron-twenty-final-i",
+      "category": "pronunciation:final-vowel",
+      "examples": [
+        {
+          "said": "twenty / 28 (weak final /i/)",
+          "correct": "twenty /ˈtwenti/ — clear final ee",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Keep a clear final /i/ in twenty (as in twenty-eight).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 56; logged silently"
     }
   ]
 }

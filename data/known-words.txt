@@ -204,6 +204,7 @@ say
 scan
 scent
 scream
+second
 secondary
 see
 send

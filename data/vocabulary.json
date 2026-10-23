@@ -232,6 +232,30 @@
       "repetitions": 0,
       "due_date": "2026-10-24",
       "last_reviewed": null
+    },
+    {
+      "id": "vocab-second-mark",
+      "term": "the 28-second mark",
+      "status": "learning",
+      "notes": "Point in a recording. From msg 56 rewrite (2026-10-23). Generalize: the X-second mark.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null
+    },
+    {
+      "id": "vocab-seconds-into-audio",
+      "term": "X seconds into the audio",
+      "status": "learning",
+      "notes": "Natural way to point into a voice note/recording. Msg 56 rewrite (2026-10-23).",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null
     }
   ],
   "known": [

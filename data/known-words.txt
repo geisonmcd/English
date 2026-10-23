@@ -180,6 +180,7 @@ properly
 push
 question
 quickly
+rate
 remember
 repeat
 repetition
@@ -242,6 +243,7 @@ them
 then
 there
 they
+thing
 think
 this
 though

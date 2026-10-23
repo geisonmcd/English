@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "items": [
     {
       "id": "err-indirect-question-called",
@@ -511,18 +511,24 @@
           "said": "what I changed in my routine I started using crockpot alot",
           "correct": "One thing I've changed in my routine is that I've started using a crock pot a lot",
           "session": "2026-10-22"
+        },
+        {
+          "said": "Something I have wanted to do for years…",
+          "correct": "Something I've wanted to do for years is… / I've wanted to… for years",
+          "session": "2026-10-23"
         }
       ],
       "rule": "Period up to now → present perfect (I've repeated); often over the last X days.",
       "first_seen": "2026-10-19",
       "occurrences": 3,
       "severity": "high",
-      "ease": 2.3,
+      "ease": 2.4,
       "interval_days": 1,
-      "repetitions": 0,
-      "due_date": "2026-10-23",
-      "last_reviewed": "2026-10-22",
-      "notes": "Lesson 3 (2026-10-22): Q1 used has rewritten correctly; Q2 used simple past changed/started (fail)."
+      "repetitions": 1,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23",
+      "notes": "Lesson 3 (2026-10-22): Q1 used has rewritten correctly; Q2 used simple past changed/started (fail). Lesson 5 (2026-10-23): present perfect used correctly in both answers (pass).",
+      "quality": 4
     },
     {
       "id": "err-past-ed-played",
@@ -1317,6 +1323,46 @@
       "interval_days": 1,
       "repetitions": 0,
       "due_date": "2026-10-23",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-comprehension-lena-checked",
+      "category": "comprehension:wrong-verb",
+      "examples": [
+        {
+          "said": "Lena has answered her e-mail 40 times a day",
+          "correct": "Since she booked her trip, she has checked her work email forty times a day",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Story verb is check (read/look at email), not answer. Also keep the since she booked her trip frame.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-cleft-tense-mismatch",
+      "category": "grammar:cleft-tense",
+      "examples": [
+        {
+          "said": "Something I have wanted to do for years, war was to open a business",
+          "correct": "Something I've wanted to do for years is open a business / is to open my own business",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "In Something I've wanted… is…, use present is when the wish is still true — not was.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
       "last_reviewed": null
     }
   ]

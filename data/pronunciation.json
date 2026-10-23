@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "items": [
     {
       "id": "pron-cursive-cursor",
@@ -703,6 +703,25 @@
       "due_date": "2026-10-23",
       "last_reviewed": null,
       "notes": "pot /pɑːt/ — aspirate /p/ with a puff of air (not bot)."
+    },
+    {
+      "id": "pron-azure-vowel",
+      "heard": "/eɪʒɚ/ (ay-zure)",
+      "intended": "Azure",
+      "context": "Telegram msg 44 free question; Azure word score 51",
+      "word_score": 51,
+      "severity": "medium",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "Azure /ˈæʒɚ/ — short a as in cat (not ay-zure /eɪʒɚ/). Distinct from older Asian/Azure STT mix-up.",
+      "issue": "wrong vowel /eɪ/ instead of /æ/"
     }
   ]
 }

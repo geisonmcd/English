@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "learning": [
     {
       "id": "vocab-spaced-repetition",
@@ -207,6 +207,30 @@
       "interval_days": 1,
       "repetitions": 0,
       "due_date": "2026-10-23",
+      "last_reviewed": null
+    },
+    {
+      "id": "vocab-pronunciation-assessment",
+      "term": "pronunciation assessment",
+      "status": "learning",
+      "notes": "Azure product/feature name: Pronunciation Assessment. From free question msg 44 (2026-10-23) — Geison said pronunciation thing.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null
+    },
+    {
+      "id": "vocab-score-pronunciation",
+      "term": "to score (someone's) pronunciation",
+      "status": "learning",
+      "notes": "Natural verb for rating pronunciation with a tool. Rewrite of rate my pronunciation / pronunciation thing. Msg 44, 2026-10-23.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
       "last_reviewed": null
     }
   ],

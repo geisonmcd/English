@@ -12,3 +12,5 @@ Running list of **words, phrases, and whole sentences** Geison wants to learn.
 | 2026-10-22 | either … or | choose between two options; keep parallel verb forms | I either fix it quickly or push the deadline back. | new |
 | 2026-10-22 | succinct | brief and clear, using few words; say /səkˈsɪŋkt/ (suck-SINKT) | Keep your feedback short and succinct. | practicing |
 | 2026-10-22 | crock pot / slow cooker | electric pot that cooks food slowly | I've started using a crock pot a lot. | new |
+| 2026-10-23 | pronunciation assessment | Azure feature that scores how you pronounce words | Are you using Azure Pronunciation Assessment? | new |
+| 2026-10-23 | to score (someone's) pronunciation | rate how clearly/accurately someone pronounces words | Are you using Azure to score my pronunciation? | new |

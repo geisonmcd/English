@@ -1364,6 +1364,46 @@
       "repetitions": 0,
       "due_date": "2026-10-24",
       "last_reviewed": null
+    },
+    {
+      "id": "err-pron-azure-vowel",
+      "category": "pronunciation:vowel",
+      "examples": [
+        {
+          "said": "Azure (/eɪʒɚ/, ay-zure)",
+          "correct": "Azure /ˈæʒɚ/ (short a as in cat)",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "US Azure is /ˈæʒɚ/ — short a as in cat, not ay-zure /eɪʒɚ/.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-pronunciation-thing",
+      "category": "word-choice:vague",
+      "examples": [
+        {
+          "said": "pronunciation thing",
+          "correct": "Pronunciation Assessment / score my pronunciation",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Prefer Azure Pronunciation Assessment or score my pronunciation over vague pronunciation thing.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null
     }
   ]
 }

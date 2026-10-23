@@ -891,6 +891,43 @@
       "last_reviewed": null,
       "notes": "so late — two clear words; /oʊ/ in so (catches as obsolete when merged).",
       "issue": "words run together; /oʊ/→/ɛ/"
+    },
+    {
+      "id": "pron-earlier-er",
+      "heard": "/oʊliɚ/",
+      "intended": "earlier",
+      "context": "Telegram msg 67; word 45, /ɝ/ phone 43",
+      "word_score": 45,
+      "severity": "medium",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23",
+      "notes": "earlier /ˈɝliɚ/ — starts like her, not oh. Er… ly… er.",
+      "issue": "/ɝ/ heard as /oʊ/"
+    },
+    {
+      "id": "pron-final-d",
+      "heard": "weak/missing final /d/",
+      "intended": "tested / wouldn't (-d)",
+      "context": "Telegram msg 67; phone scores 0–29",
+      "severity": "medium",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "Clear final /d/ on tested and wouldn't.",
+      "issue": "final /d/ weak or dropped"
     }
   ]
 }

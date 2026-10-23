@@ -1897,18 +1897,24 @@
           "said": "he wouldn't have to stay up so late",
           "correct": "he wouldn't have stayed up so late",
           "session": "2026-10-23"
+        },
+        {
+          "said": "wouldn't have to stay up (3rd try); stayed OK on tries 1–2",
+          "correct": "wouldn't have stayed up so late",
+          "session": "2026-10-23",
+          "note": "msg 67: 2/3 correct — improving"
         }
       ],
       "rule": "Third conditional result: wouldn't have + past participle (stayed). wouldn't have to stay = different meaning (obligation).",
       "first_seen": "2026-10-23",
-      "occurrences": 1,
+      "occurrences": 2,
       "severity": "high",
       "ease": 2.5,
       "interval_days": 1,
       "repetitions": 0,
       "due_date": "2026-10-24",
       "last_reviewed": "2026-10-23",
-      "notes": "msg 65; TAUGHT in reply msg 66"
+      "notes": "msg 65; TAUGHT in reply msg 66 msg 67: 2/3 correct (improving); keep reviewing."
     },
     {
       "id": "err-had-past-participle",
@@ -1924,12 +1930,13 @@
       "first_seen": "2026-10-23",
       "occurrences": 1,
       "severity": "high",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "due_date": "2026-10-24",
-      "last_reviewed": null,
-      "notes": "msg 65; pending-practice.md"
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 65; pending-practice.md msg 67: had tested used correctly — practiced.",
+      "quality": 4
     },
     {
       "id": "err-gotten-up-vs-stayed-up",
@@ -1945,12 +1952,13 @@
       "first_seen": "2026-10-23",
       "occurrences": 1,
       "severity": "medium",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "due_date": "2026-10-24",
-      "last_reviewed": null,
-      "notes": "msg 65; pending-practice.md"
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 65; pending-practice.md msg 67: stayed up used correctly — practiced.",
+      "quality": 4
     },
     {
       "id": "err-article-the-page",
@@ -1981,11 +1989,16 @@
           "said": "If you had tested..., he wouldn't...",
           "correct": "If he had tested..., he wouldn't... (same subject)",
           "session": "2026-10-23"
+        },
+        {
+          "said": "If you had it tested..., he wouldn't have to stay up (msg 67)",
+          "correct": "If he had tested..., he wouldn't have stayed up",
+          "session": "2026-10-23"
         }
       ],
       "rule": "Keep the same subject through the conditional (he/he or I/I) — don’t drift from you to he.",
       "first_seen": "2026-10-23",
-      "occurrences": 1,
+      "occurrences": 2,
       "severity": "medium",
       "ease": 2.5,
       "interval_days": 1,
@@ -2014,6 +2027,69 @@
       "due_date": "2026-10-24",
       "last_reviewed": null,
       "notes": "msg 65; pending-practice.md; modeled briefly in msg 66"
+    },
+    {
+      "id": "err-pron-earlier-er",
+      "category": "pronunciation:vowel",
+      "examples": [
+        {
+          "said": "earlier (/oʊliɚ/, score 45)",
+          "correct": "earlier /ˈɝliɚ/ — er as in her",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "earlier starts with /ɝ/ like her — not /oʊ/ (oh). Cue: her… ly… er.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 67; TAUGHT in reply msg 68"
+    },
+    {
+      "id": "err-payment-page-earlier",
+      "category": "word-choice:omission",
+      "examples": [
+        {
+          "said": "the payment early",
+          "correct": "the payment page earlier",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Keep page in payment page; use earlier (comparative) not early when contrasting a prior time.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 67; pending-practice.md"
+    },
+    {
+      "id": "err-pron-final-d",
+      "category": "pronunciation:consonant",
+      "examples": [
+        {
+          "said": "tested/wouldn't weak final -d (0–29)",
+          "correct": "clear final /d/",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Release a clear final /d/ on tested and wouldn't (past endings).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 67; pending-practice.md"
     }
   ]
 }

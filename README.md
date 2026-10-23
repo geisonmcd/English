@@ -19,7 +19,7 @@ Apply on every reply unless he overrides:
 2. **Brief comments** — keep commentaries short and succinct (say *comments*, not *commentaries*).
 3. **No end challenges** — do not add a practice challenge at the end of feedback.
 4. **Explain pronunciation in audio** — he often doesn’t follow written phonetic notes; say the sound and have him repeat.
-5. **Open-lesson hold** — do not send a new lesson while a previous lesson/challenge is still open (see lesson generation below).
+5. **Open-lesson hold** — do not send a new lesson while the **latest** lesson’s two questions are still unanswered (see lesson generation below). Extra challenges do not block.
 
 ## Layout
 
@@ -81,7 +81,7 @@ Scheduling math lives in [docs/srs.md](docs/srs.md). When reviewing, update thos
 
 ### 3. Lesson generation (scheduled or on-demand)
 
-**Hard rule (Geison, 2026-10-22):** Do **not** send a new lesson while a previous lesson is still open / unanswered. Before generating or delivering any new lesson, scan `lessons/*.md` and recent `sessions/` for status **open — awaiting answers**. If any lesson (or open challenge attached to a lesson) is unfinished, **hold** the new lesson and remind him of the open one(s) instead.
+**Hard rule (Geison, 2026-10-22; updated 2026-10-23):** Do **not** send a new lesson while the **latest** lesson’s two questions are still **open — awaiting answers**. Scan `lessons/*.md` / recent `sessions/` for that status. Extra challenges no longer block (dropped 2026-10-23 — Geison asked for no end challenges). If the latest lesson is unfinished, **hold** the new lesson and nudge the open one instead.
 
 When it is OK to send a lesson:
 

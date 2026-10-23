@@ -928,6 +928,44 @@
       "last_reviewed": null,
       "notes": "Clear final /d/ on tested and wouldn't.",
       "issue": "final /d/ weak or dropped"
+    },
+    {
+      "id": "pron-vocabulary",
+      "heard": "/vəkæbbllɛɹi/",
+      "intended": "vocabulary",
+      "context": "Telegram msg 69; word score 43",
+      "word_score": 43,
+      "severity": "medium",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "vocabulary /voʊˈkæbjəˌlɛri/ — stress on CAB.",
+      "issue": "flattened syllables / wrong vowels"
+    },
+    {
+      "id": "pron-generator-er",
+      "heard": "generator (final like o)",
+      "intended": "generator",
+      "context": "Telegram msg 69; word score 44",
+      "word_score": 44,
+      "severity": "medium",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "Final -er = /ɚ/.",
+      "issue": "final -er → /o/"
     }
   ]
 }

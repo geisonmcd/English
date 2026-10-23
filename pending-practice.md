@@ -19,6 +19,14 @@ Silent mistakes (logged in `data/mistakes.jsonl` / `data/errors.json`) that were
 | 2026-10-23 | `err-payment-page-earlier` | the payment early | the payment page earlier | pending | msg 67 |
 | 2026-10-23 | `err-pron-final-d` | tested / wouldn't (weak final /d/) | clear final /d/ | pending | msg 67 |
 
+| 2026-10-23 | `err-would-have-called` | we'll have to call (after If … had failed) | we would have called a war room | pending | msg 69 |
+| 2026-10-23 | `err-think-about` | Thought what | thought about what | pending | msg 69 |
+| 2026-10-23 | `err-restart-you-can` | You can also… you can teach me | In our conversations, you can also teach me… | pending | msg 69 |
+| 2026-10-23 | `err-already-know-order` | I know already / different than | I already know / different from (than OK US) | pending | msg 70 |
+| 2026-10-23 | `err-pron-vocabulary` | vocabulary (43) | /voʊˈkæbjəˌlɛri/ | pending | msg 69 |
+| 2026-10-23 | `err-pron-generator-er` | generator (44) | final /ɚ/ | pending | msg 69 |
+| 2026-10-23 | `err-pron-payment-syllables` | payement | payment (2 syllables) | pending | msg 69 |
+
 ## Recently taught (not pending)
 
 | taught | pattern_id | target | reply |
@@ -26,3 +34,4 @@ Silent mistakes (logged in `data/mistakes.jsonl` / `data/errors.json`) that were
 | 2026-10-23 | `err-at-a-time` | at a time | msg 64 |
 | 2026-10-23 | `err-wouldnt-have-stayed` | wouldn't have stayed up (not *have to stay*) | msg 66 (still improving — see pending) |
 | 2026-10-23 | `err-pron-earlier-er` | earlier /ˈɝliɚ/ (*her*, not *oh*) | msg 68 |
+| 2026-10-23 | `err-embedded-question-order` | what the next steps would be (statement order) | msg 71 |

@@ -31,6 +31,7 @@ azure
 back
 base
 basically
+batch
 be
 because
 before
@@ -70,6 +71,7 @@ course
 create
 crockpot
 cursive
+customer
 dangerous
 data
 day
@@ -90,6 +92,7 @@ exact
 example
 explaine
 fa
+faile
 famous
 feature
 file
@@ -102,9 +105,11 @@ focus
 for
 forget
 forgot
+formally
 four
 from
 future
+generator
 get
 github
 give
@@ -146,11 +151,13 @@ lesson
 let
 licence
 like
+limite
 list
 little
 log
 long
 look
+mabro
 make
 male
 many
@@ -198,6 +205,7 @@ pager
 part
 password
 paulo
+payement
 payment
 perfect
 perhap
@@ -227,6 +235,7 @@ return
 rewritten
 right
 rol
+room
 routine
 ruffle
 run
@@ -264,9 +273,11 @@ start
 starte
 stay
 staye
+step
 store
 story
 stretch
+stuff
 succinct
 sure
 take
@@ -278,6 +289,7 @@ tell
 test
 teste
 text
+than
 thank
 that
 the
@@ -309,6 +321,7 @@ update
 use
 user
 version
+vocabulary
 voice
 want
 wante

@@ -22,6 +22,7 @@ Apply on every reply unless he overrides:
 5. **Ongoing conversation** (since 2026-10-23 ~10:04) — **no more structured lessons**. Keep one big casual conversation; ask natural follow-ups. Do not send Lesson N story/Q packs unless he explicitly asks again.
 6. **One correction per reply** (since 2026-10-23) — each voice feedback covers **one** fix only (the most important). Other mistakes are logged silently and listed in [`pending-practice.md`](pending-practice.md) for later.
 7. **Revisit pending mistakes** — after teaching one fix, later replies should steer the chat so he naturally practices other logged, not-yet-taught items from `pending-practice.md` (and due SRS errors).
+8. **Teach new words in chat** (since 2026-10-23 ~10:29, msgs 69–70) — actively slip in new vocabulary/expressions he doesn’t already use (e.g. engineering synonyms). **Do not** run formal grammar lessons; prefer natural embedding + a short gloss.
 
 ## Layout
 

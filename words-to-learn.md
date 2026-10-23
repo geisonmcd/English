@@ -20,3 +20,5 @@ Running list of **words, phrases, and whole sentences** Geison wants to learn.
 | 2026-10-23 | stay up vs get up | *stay up* = not go to bed; *get up* = leave bed in the morning | He stayed up so late; he got up at noon. | new |
 | 2026-10-23 | at a time | in each instance / one by one (not *at the time*) | Focus on one mistake at a time. | practicing |
 | 2026-10-23 | ongoing conversation | continuous casual chat (not structured lessons) | Let's keep an ongoing conversation. | new |
+| 2026-10-23 | revert | roll back a deploy / undo a change | We reverted the deploy. | new |
+| 2026-10-23 | hotfix | quick fix pushed straight to production | Have you ever had to push a hotfix on a Friday? | new |

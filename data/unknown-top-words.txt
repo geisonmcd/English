@@ -48,7 +48,6 @@ wait
 stop
 won
 away
-than
 thought
 home
 night
@@ -130,7 +129,6 @@ family
 real
 without
 baby
-room
 wouldn
 move
 seen
@@ -218,7 +216,6 @@ working
 water
 person
 kids
-stuff
 exactly
 under
 death
@@ -490,7 +487,6 @@ mad
 turned
 drop
 ladies
-step
 absolutely
 explain
 clean
@@ -2616,7 +2612,6 @@ accent
 believes
 decisions
 embarrassed
-customer
 terribly
 sec
 charity

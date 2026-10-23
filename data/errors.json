@@ -967,11 +967,16 @@
           "said": "(monotone — Azure Monotone flag, msg 57)",
           "correct": "vary pitch on key words / clause ends",
           "session": "2026-10-23"
+        },
+        {
+          "said": "(monotone msg 69)",
+          "correct": "vary pitch",
+          "session": "2026-10-23"
         }
       ],
       "rule": "Azure flagged Monotone; practice pitch movement so statements and questions do not stay flat.",
       "first_seen": "2026-10-21",
-      "occurrences": 4,
+      "occurrences": 5,
       "severity": "low",
       "ease": 2.5,
       "interval_days": 1,
@@ -2090,6 +2095,174 @@
       "due_date": "2026-10-24",
       "last_reviewed": null,
       "notes": "msg 67; pending-practice.md"
+    },
+    {
+      "id": "err-embedded-question-order",
+      "category": "grammar:embedded-question",
+      "examples": [
+        {
+          "said": "Thought what would the next steps be",
+          "correct": "We'd think about what the next steps would be",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Inside a longer sentence, embedded questions use statement order: what the next steps would be — not what would the next steps be.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 69; TAUGHT in reply msg 71"
+    },
+    {
+      "id": "err-would-have-called",
+      "category": "grammar:third-conditional",
+      "examples": [
+        {
+          "said": "If the payment had failed... then we'll have to call",
+          "correct": "we would have called a war room",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "If + past perfect → would have + past participle (not will / have to).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 69; partial self-correction; pending"
+    },
+    {
+      "id": "err-think-about",
+      "category": "grammar:preposition",
+      "examples": [
+        {
+          "said": "Thought what",
+          "correct": "thought about what / think about what",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "think/thought about + what-clause (need about).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 69; pending"
+    },
+    {
+      "id": "err-restart-you-can",
+      "category": "fluency:restart",
+      "examples": [
+        {
+          "said": "You can also, in our conversations, you can teach me",
+          "correct": "In our conversations, you can also teach me…",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Avoid restarting with a second you can — one clean frame.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 69; pending"
+    },
+    {
+      "id": "err-already-know-order",
+      "category": "word-choice:naturalness",
+      "examples": [
+        {
+          "said": "the ones I know already",
+          "correct": "the ones I already know",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Prefer I already know; different from is a bit more formal than different than (US than OK).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 70; pending"
+    },
+    {
+      "id": "err-pron-vocabulary",
+      "category": "pronunciation:word-stress",
+      "examples": [
+        {
+          "said": "vocabulary (43)",
+          "correct": "vocabulary /voʊˈkæbjəˌlɛri/",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "vocabulary — 5 syllables, stress on -cab-; not a flattened /vəkæbbllɛɹi/.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 69; pending"
+    },
+    {
+      "id": "err-pron-generator-er",
+      "category": "pronunciation:vowel",
+      "examples": [
+        {
+          "said": "generator (44, final -er like o)",
+          "correct": "generator — final /ɚ/",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Final -er in generator is /ɚ/, not a full /o/.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 69; pending"
+    },
+    {
+      "id": "err-pron-payment-syllables",
+      "category": "pronunciation:syllable",
+      "examples": [
+        {
+          "said": "payement",
+          "correct": "payment /ˈpeɪmənt/ (two syllables)",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "payment has two syllables — not pay-e-ment.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 69; pending"
     }
   ]
 }

@@ -1398,12 +1398,13 @@
       "first_seen": "2026-10-23",
       "occurrences": 2,
       "severity": "medium",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "due_date": "2026-10-24",
-      "last_reviewed": null,
-      "notes": "msg 44: ay-zure. msg 49 practice: clearer but weak /æ/ and /ɚ/ on 2nd try (silent log)."
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 44: ay-zure. msg 49 practice: clearer but weak /æ/ and /ɚ/ on 2nd try (silent log). msg 51 practice: Azure 97/97 — pass (clear /æʒɚ/).",
+      "quality": 4
     },
     {
       "id": "err-pronunciation-thing",
@@ -1521,12 +1522,13 @@
       "first_seen": "2026-10-23",
       "occurrences": 1,
       "severity": "medium",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "due_date": "2026-10-24",
-      "last_reviewed": null,
-      "notes": "msg 49; one correction in reply msg 50"
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 49; one correction in reply msg 50 msg 51 practice: using 97–100 — pass (target /ju/ fixed).",
+      "quality": 4
     }
   ]
 }

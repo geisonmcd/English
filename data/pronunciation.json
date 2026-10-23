@@ -715,17 +715,16 @@
       "occurrences": 2,
       "session": "2026-10-23",
       "source": "azure-speech-telegram",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "due_date": "2026-10-24",
-      "last_reviewed": null,
-      "notes": "Azure /ˈæʒɚ/ — short a as in cat + clear final er (not ay-zure). msg 44 score 51 (ay-zure). msg 49 practice 88/48/66 — weak /æ/ and /ɚ/ on 2nd try (silent).",
+      "last_reviewed": "2026-10-23",
+      "notes": "Azure /ˈæʒɚ/ — short a as in cat + clear final er (not ay-zure). msg 44 score 51 (ay-zure). msg 49 practice 88/48/66 — weak /æ/ and /ɚ/ on 2nd try (silent). msg 51: Azure 97/97 — pass.",
       "issue": "weak or wrong /æ/; weak final /ɚ/; earlier /eɪ/ for /æ/",
       "word_scores": [
-        88,
-        48,
-        66
+        97,
+        97
       ],
       "phone_scores": {
         "æ": 48,
@@ -733,13 +732,14 @@
       },
       "last_practice": {
         "date": "2026-10-23",
-        "telegram_msg": 49,
+        "telegram_msg": 51,
         "scores": [
-          88,
-          48,
-          66
-        ]
-      }
+          97,
+          97
+        ],
+        "result": "pass"
+      },
+      "quality": 4
     },
     {
       "id": "pron-going-ng",
@@ -785,19 +785,37 @@
       "heard": "/ɹzɪŋ/",
       "intended": "using",
       "context": "Telegram msg 49 free practice; word score 38",
-      "word_score": 38,
+      "word_score": 97,
       "severity": "medium",
       "first_seen": "2026-10-23",
       "occurrences": 1,
       "session": "2026-10-23",
       "source": "azure-speech-telegram",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "due_date": "2026-10-24",
-      "last_reviewed": null,
-      "notes": "using /ˈjuzɪŋ/ — start with you (/ju/), then zing. Cue: You… zing. Using.",
-      "issue": "dropped initial /j/ (you) onset"
+      "last_reviewed": "2026-10-23",
+      "notes": "using /ˈjuzɪŋ/ — start with you (/ju/), then zing. Cue: You… zing. Using. msg 51: using 97/97/100/97 — pass.",
+      "issue": "dropped initial /j/ (you) onset",
+      "quality": 4,
+      "word_scores": [
+        97,
+        97,
+        100,
+        97
+      ],
+      "last_practice": {
+        "date": "2026-10-23",
+        "telegram_msg": 51,
+        "scores": [
+          97,
+          97,
+          100,
+          97
+        ],
+        "result": "pass"
+      }
     }
   ]
 }

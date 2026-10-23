@@ -1386,17 +1386,24 @@
           "said": "Azure (/eɪʒɚ/, ay-zure)",
           "correct": "Azure /ˈæʒɚ/ (short a as in cat)",
           "session": "2026-10-23"
+        },
+        {
+          "said": "Azure (scores 88/48/66; weak /æ/ 48, /ɚ/ 58 on 2nd)",
+          "correct": "Azure /ˈæʒɚ/ — clear short a (cat) and final er",
+          "session": "2026-10-23",
+          "note": "msg 49 practice; logged silently"
         }
       ],
-      "rule": "US Azure is /ˈæʒɚ/ — short a as in cat, not ay-zure /eɪʒɚ/.",
+      "rule": "US Azure is /ˈæʒɚ/ — short a as in cat and a clear final er; avoid ay-zure /eɪʒɚ/ and weak /æ/+/ɚ/.",
       "first_seen": "2026-10-23",
-      "occurrences": 1,
+      "occurrences": 2,
       "severity": "medium",
       "ease": 2.5,
       "interval_days": 1,
       "repetitions": 0,
       "due_date": "2026-10-24",
-      "last_reviewed": null
+      "last_reviewed": null,
+      "notes": "msg 44: ay-zure. msg 49 practice: clearer but weak /æ/ and /ɚ/ on 2nd try (silent log)."
     },
     {
       "id": "err-pronunciation-thing",
@@ -1499,6 +1506,27 @@
       "due_date": "2026-10-24",
       "last_reviewed": null,
       "notes": "msg 47; logged silently under one-correction policy"
+    },
+    {
+      "id": "err-pron-using-j",
+      "category": "pronunciation:onset",
+      "examples": [
+        {
+          "said": "using (/ɹzɪŋ/, dropped initial /ju/)",
+          "correct": "using /ˈjuzɪŋ/ — you + zing",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "using starts with a you sound /ju/: you…zing — don't drop the /j/ (heard as /ɹzɪŋ/).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 49; one correction in reply msg 50"
     }
   ]
 }

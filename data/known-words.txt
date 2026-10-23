@@ -8,6 +8,7 @@ again
 all
 alot
 already
+alright
 also
 always
 america
@@ -34,6 +35,7 @@ be
 because
 before
 best
+big
 blah
 boat
 boss
@@ -60,8 +62,10 @@ complete
 completely
 complicate
 computer
+conversation
 correct
 could
+course
 create
 crockpot
 cursive
@@ -95,6 +99,7 @@ focus
 for
 forget
 forgot
+four
 from
 future
 get
@@ -113,6 +118,7 @@ hey
 his
 how
 i
+idea
 ideas
 if
 ignore
@@ -163,6 +169,7 @@ my
 natural
 need
 new
+next
 no
 not
 note
@@ -173,6 +180,7 @@ okay
 on
 once
 one
+ongo
 open
 or
 order
@@ -216,6 +224,7 @@ routine
 ruffle
 run
 s
+same
 sao
 say
 scan

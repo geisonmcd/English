@@ -74,7 +74,6 @@ guy
 made
 old
 isn
-big
 lot
 done
 hello
@@ -88,7 +87,6 @@ coming
 house
 through
 being
-course
 left
 dad
 enough
@@ -103,13 +101,11 @@ three
 listen
 hear
 own
-same
 show
 else
 kill
 talking
 found
-next
 getting
 care
 car
@@ -148,7 +144,6 @@ ready
 head
 called
 used
-idea
 knew
 hold
 happy
@@ -263,7 +258,6 @@ sleep
 chance
 dear
 quite
-four
 close
 ain
 party
@@ -382,7 +376,6 @@ sort
 leaving
 shouldn
 running
-alright
 promise
 taken
 safe
@@ -1207,7 +1200,6 @@ ghost
 cup
 gotten
 tight
-conversation
 tells
 lies
 nor

@@ -268,6 +268,30 @@
       "repetitions": 0,
       "due_date": "2026-10-24",
       "last_reviewed": "2026-10-23"
+    },
+    {
+      "id": "vocab-at-a-time",
+      "term": "at a time",
+      "status": "learning",
+      "notes": "Fixed expression: one mistake at a time (not at the time). Taught msg 64, 2026-10-23.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23"
+    },
+    {
+      "id": "vocab-ongoing-conversation",
+      "term": "ongoing conversation",
+      "status": "learning",
+      "notes": "Continuous casual chat format (replacing structured lessons). Msg 62, 2026-10-23.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null
     }
   ],
   "known": [

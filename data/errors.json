@@ -1783,6 +1783,111 @@
       "due_date": "2026-10-24",
       "last_reviewed": null,
       "notes": "msg 61; logged silently"
+    },
+    {
+      "id": "err-at-a-time",
+      "category": "word-choice:fixed-expression",
+      "examples": [
+        {
+          "said": "one mistake at the time",
+          "correct": "one mistake at a time",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Fixed expression: at a time (one by one) — not at the time (unless you mean “at that moment”).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 62; TAUGHT in reply msg 64"
+    },
+    {
+      "id": "err-filler-i-dont-know",
+      "category": "fluency:filler",
+      "examples": [
+        {
+          "said": "just fix the I don't know the most important one",
+          "correct": "just fix the most important one",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Don't insert I don't know inside a noun phrase — say the most important one.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 62; pending-practice.md"
+    },
+    {
+      "id": "err-the-same-of",
+      "category": "word-choice:unnatural",
+      "examples": [
+        {
+          "said": "repeat the same of the other four mistakes",
+          "correct": "practice the other four mistakes again",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Avoid the same of X. Prefer practice X again / the same mistakes again.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 62; pending-practice.md"
+    },
+    {
+      "id": "err-answers-short",
+      "category": "word-choice:collocation",
+      "examples": [
+        {
+          "said": "Keep your answers small",
+          "correct": "Keep your answers short",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Answers/comments are short (length), not small (size).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 62; pending-practice.md"
+    },
+    {
+      "id": "err-pron-after-ash",
+      "category": "pronunciation:vowel",
+      "examples": [
+        {
+          "said": "after (score 58, weak /æ/)",
+          "correct": "after /ˈæftər/ — a as in cat",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "after starts with /æ/ (cat), not a closed /e/ or schwa-only onset.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 62; pending-practice.md"
     }
   ]
 }

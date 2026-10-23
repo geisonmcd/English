@@ -2,7 +2,7 @@
 
 Personal English-learning tracker for **Geison** (Brazilian Portuguese speaker, FullStack JS developer).
 
-An AI conversation partner ("English BOT") talks with him and updates this repo after every conversation. Once a week it generates a lesson from the accumulated data.
+An AI conversation partner ("English BOT") talks with him and updates this repo after every conversation. **Since 2026-10-23:** prefer an **ongoing casual conversation** (not scheduled structured lessons). Older `lessons/` files remain as history.
 
 **Current channel:** Telegram bot `@english_234234234_bot` (earlier sessions also used WhatsApp).  
 **BOT audio voice:** Azure `en-US-AndrewMultilingualNeural` (male). Personal voice cloning is not available on the free Azure plan.
@@ -16,17 +16,19 @@ Reviews use spaced repetition (Anki / SM-2 style) — see [docs/srs.md](docs/srs
 Apply on every reply unless he overrides:
 
 1. **Audio-only feedback** — send corrections as **short voice notes**; avoid text replies for feedback/explanations.
-2. **Brief comments** — keep commentaries short and succinct (say *comments*, not *commentaries*).
+2. **Brief / short answers** — keep replies short and succinct (say *comments* / *short*, not *commentaries* / *small*).
 3. **No end challenges** — do not add a practice challenge at the end of feedback.
 4. **Explain pronunciation in audio** — he often doesn’t follow written phonetic notes; say the sound and have him repeat.
-5. **Open-lesson hold** — do not send a new lesson while the **latest** lesson’s two questions are still unanswered (see lesson generation below). Extra challenges do not block.
-6. **One correction per reply** (since 2026-10-23) — each voice feedback covers **one** fix only (the most important). Other mistakes are logged in the repo silently (`sessions/`, `data/mistakes.jsonl`, `data/errors.json`) and not spoken in that reply.
+5. **Ongoing conversation** (since 2026-10-23 ~10:04) — **no more structured lessons**. Keep one big casual conversation; ask natural follow-ups. Do not send Lesson N story/Q packs unless he explicitly asks again.
+6. **One correction per reply** (since 2026-10-23) — each voice feedback covers **one** fix only (the most important). Other mistakes are logged silently and listed in [`pending-practice.md`](pending-practice.md) for later.
+7. **Revisit pending mistakes** — after teaching one fix, later replies should steer the chat so he naturally practices other logged, not-yet-taught items from `pending-practice.md` (and due SRS errors).
 
 ## Layout
 
 ```
 README.md                      ← you are here
 words-to-learn.md              ← running list Geison wants to learn (Telegram add: …)
+pending-practice.md            ← silent mistakes to revisit in later conversation turns
 docs/srs.md                    ← exact spaced-repetition scheduling rules
 sessions/YYYY-MM-DD.md         ← one log per conversation day
 data/errors.json               ← recurring mistake patterns + SRS fields
@@ -80,17 +82,24 @@ Plain Markdown, JSON, and text. No app, no build. Word lists are maintained by a
 
 Scheduling math lives in [docs/srs.md](docs/srs.md). When reviewing, update those five fields in place on errors, learning vocabulary, and pronunciation entries.
 
-### 3. Lesson generation (scheduled or on-demand)
+### 3. Conversation mode (default since 2026-10-23)
 
-**Hard rule (Geison, 2026-10-22; updated 2026-10-23):** Do **not** send a new lesson while the **latest** lesson’s two questions are still **open — awaiting answers**. Scan `lessons/*.md` / recent `sessions/` for that status. Extra challenges no longer block (dropped 2026-10-23 — Geison asked for no end challenges). If the latest lesson is unfinished, **hold** the new lesson and nudge the open one instead.
+**Hard rule:** Do **not** send structured lessons (story + two questions) unless Geison explicitly asks. Keep an ongoing voice conversation:
 
-When it is OK to send a lesson:
+1. Reply short (audio only)
+2. Teach **one** most important mistake; log the rest silently → append to [`pending-practice.md`](pending-practice.md)
+3. Next turns: natural questions that pull in pending / due patterns so he practices them again
+4. Update session + data files; commit and push to `main`
+
+### 3b. Lesson generation (legacy / only if he asks)
+
+Older rule (superseded for routine use): do not send a new lesson while the latest lesson’s two questions are still open. If he explicitly requests a lesson again:
 
 1. Copy `lessons/_TEMPLATE.md` → `lessons/YYYY-Www.md` (ISO week) if needed, or append a numbered lesson section
 2. Pull the top serious / due errors from `data/errors.json` (and due vocab / pronunciation)
 3. Write short explanations + 3–5 practice sentences / story questions per focus error
 4. Add a quick vocab review section when useful
-5. Commit and push; deliver on Telegram only after the open-lesson check passes
+5. Commit and push; deliver on Telegram only after any open-lesson check
 
 ### 4. During a review session
 

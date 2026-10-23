@@ -853,6 +853,25 @@
       "last_reviewed": null,
       "notes": "don't /doʊnt/ — release final /t/.",
       "issue": "final /t/ dropped"
+    },
+    {
+      "id": "pron-after-ash",
+      "heard": "after (58)",
+      "intended": "after",
+      "context": "Telegram msg 62 format-change request",
+      "word_score": 58,
+      "severity": "low",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "after /ˈæftər/ — open a as in cat.",
+      "issue": "weak /æ/"
     }
   ]
 }

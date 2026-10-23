@@ -20,6 +20,7 @@ Apply on every reply unless he overrides:
 3. **No end challenges** — do not add a practice challenge at the end of feedback.
 4. **Explain pronunciation in audio** — he often doesn’t follow written phonetic notes; say the sound and have him repeat.
 5. **Open-lesson hold** — do not send a new lesson while the **latest** lesson’s two questions are still unanswered (see lesson generation below). Extra challenges do not block.
+6. **One correction per reply** (since 2026-10-23) — each voice feedback covers **one** fix only (the most important). Other mistakes are logged in the repo silently (`sessions/`, `data/mistakes.jsonl`, `data/errors.json`) and not spoken in that reply.
 
 ## Layout
 

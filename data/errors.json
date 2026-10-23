@@ -952,16 +952,21 @@
           "said": "(monotone intonation across the utterance)",
           "correct": "vary pitch — rise/fall on key words and at clause ends",
           "session": "2026-10-21"
+        },
+        {
+          "said": "(monotone intonation — Azure Monotone flag)",
+          "correct": "vary pitch on key words / clause ends",
+          "session": "2026-10-23"
         }
       ],
       "rule": "Azure flagged Monotone; practice pitch movement so statements and questions do not stay flat.",
       "first_seen": "2026-10-21",
-      "occurrences": 1,
+      "occurrences": 2,
       "severity": "low",
       "ease": 2.5,
       "interval_days": 1,
       "repetitions": 0,
-      "due_date": "2026-10-22",
+      "due_date": "2026-10-24",
       "last_reviewed": null
     },
     {
@@ -1452,6 +1457,48 @@
       "repetitions": 0,
       "due_date": "2026-10-24",
       "last_reviewed": null
+    },
+    {
+      "id": "err-present-continuous-trying",
+      "category": "grammar:present-continuous",
+      "examples": [
+        {
+          "said": "what to try to correct / what you try",
+          "correct": "what you're trying to correct / what you're trying to fix",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "For an action in progress (what the BOT is correcting right now), use present continuous: what you're trying to… — not what to try / what you try.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 47; logged silently under one-correction policy"
+    },
+    {
+      "id": "err-missing-object-possessive",
+      "category": "grammar:missing-object",
+      "examples": [
+        {
+          "said": "when you fix my anyway",
+          "correct": "your corrections / when you fix my answers",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "fix needs an object; possessive my needs a noun (my answers) — or say your corrections.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 47; logged silently under one-correction policy"
     }
   ]
 }

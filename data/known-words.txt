@@ -31,6 +31,7 @@ back
 base
 basically
 be
+because
 before
 best
 blah
@@ -80,6 +81,7 @@ example
 explaine
 fa
 famous
+feature
 file
 find
 fine
@@ -88,6 +90,7 @@ fix
 fixe
 focus
 for
+forgot
 from
 get
 github
@@ -97,6 +100,7 @@ gonna
 grammar
 hardest
 have
+he
 help
 her
 here
@@ -118,6 +122,7 @@ just
 keep
 know
 last
+late
 learn
 lecture
 lena
@@ -133,6 +138,7 @@ look
 make
 male
 many
+marco
 maybe
 me
 mean
@@ -142,6 +148,7 @@ message
 method
 mine
 mistake
+mobile
 moment
 more
 most
@@ -169,6 +176,7 @@ out
 part
 password
 paulo
+payment
 perfect
 perhap
 phrase
@@ -229,6 +237,7 @@ spent
 star
 start
 starte
+staye
 store
 story
 stretch

@@ -276,6 +276,20 @@
       "status": "known",
       "notes": "Natural developer phrasing.",
       "first_seen": "2026-10-19"
+    },
+    {
+      "id": "known-work-out",
+      "term": "work out (succeed)",
+      "status": "known",
+      "notes": "Used naturally in free practice msg 43 (2026-10-23): Not sure if it's going to work out. Sense = succeed / turn out well.",
+      "first_seen": "2026-10-23"
+    },
+    {
+      "id": "known-try-my-hardest",
+      "term": "try my hardest",
+      "status": "known",
+      "notes": "Used naturally in free practice msg 43 (2026-10-23): I'm trying my hardest.",
+      "first_seen": "2026-10-23"
     }
   ]
 }

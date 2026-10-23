@@ -89,8 +89,10 @@ from
 get
 github
 give
+go
 gonna
 grammar
+hardest
 have
 help
 her
@@ -256,6 +258,7 @@ told
 too
 track
 try
+trying
 two
 understand
 unnatural

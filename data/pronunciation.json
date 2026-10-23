@@ -722,6 +722,45 @@
       "last_reviewed": null,
       "notes": "Azure /ˈæʒɚ/ — short a as in cat (not ay-zure /eɪʒɚ/). Distinct from older Asian/Azure STT mix-up.",
       "issue": "wrong vowel /eɪ/ instead of /æ/"
+    },
+    {
+      "id": "pron-going-ng",
+      "heard": "goin' (/n/)",
+      "intended": "going",
+      "context": "Telegram msg 43 free practice; final /ŋ/ phone score 0",
+      "word_score": null,
+      "phone_score_ng": 0,
+      "severity": "medium",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "going /ˈɡoʊɪŋ/ — finish -ing with /ŋ/, or say gonna in casual speech.",
+      "issue": "final /ŋ/ dropped / heard as /n/"
+    },
+    {
+      "id": "pron-but-t",
+      "heard": "but (weak /t/)",
+      "intended": "but",
+      "context": "Telegram msg 43 free practice; /t/ phone score 33",
+      "phone_score_t": 33,
+      "severity": "low",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "but — clear short /t/ release.",
+      "issue": "weak /t/"
     }
   ]
 }

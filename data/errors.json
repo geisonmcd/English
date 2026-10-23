@@ -516,19 +516,25 @@
           "said": "Something I have wanted to do for years…",
           "correct": "Something I've wanted to do for years is… / I've wanted to… for years",
           "session": "2026-10-23"
+        },
+        {
+          "said": "Something I wanted to do for years",
+          "correct": "Something I've wanted to do for years",
+          "session": "2026-10-23",
+          "note": "msg 43 free practice; possible swallowed I've — minor fail, no harsh SRS reset"
         }
       ],
       "rule": "Period up to now → present perfect (I've repeated); often over the last X days.",
       "first_seen": "2026-10-19",
-      "occurrences": 3,
+      "occurrences": 4,
       "severity": "high",
       "ease": 2.4,
       "interval_days": 1,
       "repetitions": 1,
       "due_date": "2026-10-24",
       "last_reviewed": "2026-10-23",
-      "notes": "Lesson 3 (2026-10-22): Q1 used has rewritten correctly; Q2 used simple past changed/started (fail). Lesson 5 (2026-10-23): present perfect used correctly in both answers (pass).",
-      "quality": 4
+      "notes": "Lesson 3 (2026-10-22): Q1 used has rewritten correctly; Q2 used simple past changed/started (fail). Lesson 5 answer (2026-10-23 msg 41): present perfect used correctly in both answers (pass). Practice msg 43: dropped I've (I wanted … for years) — minor fail / possible swallowed contraction; occurrences +1 but SRS not harshly reset (reps/ease kept).",
+      "quality": 2
     },
     {
       "id": "err-past-ed-played",
@@ -1359,11 +1365,13 @@
       "first_seen": "2026-10-23",
       "occurrences": 1,
       "severity": "medium",
-      "ease": 2.5,
+      "ease": 2.6,
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "due_date": "2026-10-24",
-      "last_reviewed": null
+      "last_reviewed": "2026-10-23",
+      "quality": 4,
+      "notes": "Practice msg 43 (2026-10-23): used is (not was) after msg 42 correction — pass."
     },
     {
       "id": "err-pron-azure-vowel",
@@ -1396,6 +1404,46 @@
         }
       ],
       "rule": "Prefer Azure Pronunciation Assessment or score my pronunciation over vague pronunciation thing.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-pron-going-ng",
+      "category": "pronunciation:final-ng",
+      "examples": [
+        {
+          "said": "going (final /ŋ/ = 0, goin')",
+          "correct": "going /ˈɡoʊɪŋ/ — finish -ing, or say gonna",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Finish the -ing in going with /ŋ/ (or use casual gonna). Azure scored final /ŋ/ as 0 (closest /n/).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null
+    },
+    {
+      "id": "err-pron-but-t",
+      "category": "pronunciation:final-t",
+      "examples": [
+        {
+          "said": "but (weak /t/, score 33)",
+          "correct": "but with a clear short /t/",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "In but, release a clear short /t/ (Azure phone score 33).",
       "first_seen": "2026-10-23",
       "occurrences": 1,
       "severity": "low",

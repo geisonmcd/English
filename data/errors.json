@@ -962,11 +962,16 @@
           "said": "(monotone — Azure Monotone flag, msg 56)",
           "correct": "vary pitch on key words / clause ends",
           "session": "2026-10-23"
+        },
+        {
+          "said": "(monotone — Azure Monotone flag, msg 57)",
+          "correct": "vary pitch on key words / clause ends",
+          "session": "2026-10-23"
         }
       ],
       "rule": "Azure flagged Monotone; practice pitch movement so statements and questions do not stay flat.",
       "first_seen": "2026-10-21",
-      "occurrences": 3,
+      "occurrences": 4,
       "severity": "low",
       "ease": 2.5,
       "interval_days": 1,
@@ -1639,6 +1644,69 @@
       "due_date": "2026-10-24",
       "last_reviewed": null,
       "notes": "msg 55; logged silently"
+    },
+    {
+      "id": "err-stay-up-late",
+      "category": "word-choice:phrasal-verb",
+      "examples": [
+        {
+          "said": "stayed late",
+          "correct": "stayed up late",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "stay up late = not go to bed; stay late = remain at work late. For Marco awake until 4 a.m., use stayed up late.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 57 Lesson 6 Q1; TAUGHT in reply msg 60"
+    },
+    {
+      "id": "err-missed-third-conditional",
+      "category": "grammar:third-conditional",
+      "examples": [
+        {
+          "said": "Marco stayed late because he forgot to test…",
+          "correct": "If he had tested the payment page on his phone earlier, he wouldn't have stayed up until four a.m.",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "When the lesson asks for If he had… / If I had…, use third conditional (If + past perfect, would have + past participle) — not only because + simple past.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 57; content correct; frame missed; logged silently (one-correction = stayed up)"
+    },
+    {
+      "id": "err-repeated-the",
+      "category": "fluency:hesitation",
+      "examples": [
+        {
+          "said": "the the",
+          "correct": "the",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Hesitation sometimes doubles the — say it once.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "low",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 57; minor; logged silently"
     }
   ]
 }

@@ -1888,6 +1888,132 @@
       "due_date": "2026-10-24",
       "last_reviewed": null,
       "notes": "msg 62; pending-practice.md"
+    },
+    {
+      "id": "err-wouldnt-have-stayed",
+      "category": "grammar:third-conditional",
+      "examples": [
+        {
+          "said": "he wouldn't have to stay up so late",
+          "correct": "he wouldn't have stayed up so late",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Third conditional result: wouldn't have + past participle (stayed). wouldn't have to stay = different meaning (obligation).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": "2026-10-23",
+      "notes": "msg 65; TAUGHT in reply msg 66"
+    },
+    {
+      "id": "err-had-past-participle",
+      "category": "grammar:past-participle",
+      "examples": [
+        {
+          "said": "If he had test the page",
+          "correct": "If he had tested the page",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "After had in third conditional / past perfect, use past participle (tested, not test).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "high",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 65; pending-practice.md"
+    },
+    {
+      "id": "err-gotten-up-vs-stayed-up",
+      "category": "word-choice:phrasal-verb",
+      "examples": [
+        {
+          "said": "wouldn't have gotten up so late",
+          "correct": "wouldn't have stayed up so late",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "stay up = not go to bed; get up = leave bed in the morning.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 65; pending-practice.md"
+    },
+    {
+      "id": "err-article-the-page",
+      "category": "grammar:article",
+      "examples": [
+        {
+          "said": "tested page earlier",
+          "correct": "tested the page earlier",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Use the before page when referring to a specific page (the payment page).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 65; pending-practice.md"
+    },
+    {
+      "id": "err-pronoun-drift",
+      "category": "grammar:sentence-structure",
+      "examples": [
+        {
+          "said": "If you had tested..., he wouldn't...",
+          "correct": "If he had tested..., he wouldn't... (same subject)",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Keep the same subject through the conditional (he/he or I/I) — don’t drift from you to he.",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 65; pending-practice.md"
+    },
+    {
+      "id": "err-pron-so-late",
+      "category": "pronunciation:linking",
+      "examples": [
+        {
+          "said": "so late (heard as obsolete)",
+          "correct": "so late — two clear words; /oʊ/ in so",
+          "session": "2026-10-23"
+        }
+      ],
+      "rule": "Say so and late as two words; keep /oʊ/ in so (not /ɛ/).",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "severity": "medium",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "msg 65; pending-practice.md; modeled briefly in msg 66"
     }
   ]
 }

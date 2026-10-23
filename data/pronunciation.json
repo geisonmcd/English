@@ -872,6 +872,25 @@
       "last_reviewed": null,
       "notes": "after /ˈæftər/ — open a as in cat.",
       "issue": "weak /æ/"
+    },
+    {
+      "id": "pron-so-late",
+      "heard": "obsolete / so+late merged",
+      "intended": "so late",
+      "context": "Telegram msg 65 third-conditional practice; word score 42",
+      "word_score": 42,
+      "severity": "medium",
+      "first_seen": "2026-10-23",
+      "occurrences": 1,
+      "session": "2026-10-23",
+      "source": "azure-speech-telegram",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null,
+      "notes": "so late — two clear words; /oʊ/ in so (catches as obsolete when merged).",
+      "issue": "words run together; /oʊ/→/ɛ/"
     }
   ]
 }

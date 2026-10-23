@@ -292,6 +292,18 @@
       "repetitions": 0,
       "due_date": "2026-10-24",
       "last_reviewed": null
+    },
+    {
+      "id": "vocab-stay-up-vs-get-up",
+      "term": "stay up (late) vs get up",
+      "status": "learning",
+      "notes": "stay up = not go to bed; get up = leave bed. Msg 65 used gotten up for stayed up. 2026-10-23.",
+      "first_seen": "2026-10-23",
+      "ease": 2.5,
+      "interval_days": 1,
+      "repetitions": 0,
+      "due_date": "2026-10-24",
+      "last_reviewed": null
     }
   ],
   "known": [

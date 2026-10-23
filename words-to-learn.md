@@ -17,5 +17,6 @@ Running list of **words, phrases, and whole sentences** Geison wants to learn.
 | 2026-10-23 | the 28-second mark | that exact point in a recording | The hint is at the 28-second mark. | new |
 | 2026-10-23 | X seconds into the audio | that many seconds after the recording starts | At 28 seconds into the audio. | new |
 | 2026-10-23 | stay up late | not go to bed (≠ *stay late* at work) | Marco stayed up late because he forgot to test the payment page. | practicing |
+| 2026-10-23 | stay up vs get up | *stay up* = not go to bed; *get up* = leave bed in the morning | He stayed up so late; he got up at noon. | new |
 | 2026-10-23 | at a time | in each instance / one by one (not *at the time*) | Focus on one mistake at a time. | practicing |
 | 2026-10-23 | ongoing conversation | continuous casual chat (not structured lessons) | Let's keep an ongoing conversation. | new |

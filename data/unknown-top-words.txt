@@ -980,7 +980,6 @@ gay
 department
 guilty
 apart
-earlier
 duty
 jim
 suit
@@ -1198,7 +1197,6 @@ shouting
 blind
 ghost
 cup
-gotten
 tight
 tells
 lies
@@ -1599,7 +1597,6 @@ sooner
 cheese
 larry
 spring
-page
 ears
 simon
 castle

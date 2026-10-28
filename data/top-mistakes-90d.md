@@ -1,6 +1,6 @@
 # Top mistakes (last 90 days)
 
-Generated: 2026-10-27 · window: 90 days · source: `data/mistakes.jsonl`
+Generated: 2026-10-28 · window: 90 days · source: `data/mistakes.jsonl`
 
 | Rank | Pattern | Count | Severity | Last seen | Correct form | Rule |
 |-----:|---------|------:|----------|-----------|--------------|------|

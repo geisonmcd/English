@@ -28,3 +28,4 @@ Running list of **words, phrases, and whole sentences** Geison wants to learn.
 | 2026-10-23 | bond out / bond someone out | get someone out of jail by paying a bail bond (say /bɑːnd/, not *bound*) | I'm here to bond out Ray. / They bonded him out. | new |
 | 2026-10-23 | bail bond | a promise / arrangement to pay the bail money | He used a bail bond to get out. | new |
 | 2026-10-23 | bail bondsman | person whose job is to lend/post the bail money | The bail bondsman posted his bail. | new |
+| 2026-11-11 | gym bleachers | the long rows of tiered benches in a school gym (often folding against the wall) where people sit to watch games | We sat on the gym bleachers and watched the basketball game. | new |
